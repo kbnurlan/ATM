@@ -1,0 +1,5 @@
+Error in enc2utf8(path) : argument is not a character vector
+Calls: file_copy -> path_expand
+In addition: Warning message:
+In is.na(x) : is.na() applied to non-(list or vector) of type 'closure'
+Execution halted
