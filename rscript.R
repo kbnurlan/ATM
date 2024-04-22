@@ -6,6 +6,7 @@ library(tidyverse)
 library(gridExtra)
 library(lubridate)
 library(grid)
+install.packages("openssl", repos = "https://cloud.r-project.org/", version = "2.1.1")
 
 df = readxl::read_excel('last_down.xlsx') %>% 
   select(ATM_ID,Address,everything()) %>% 
