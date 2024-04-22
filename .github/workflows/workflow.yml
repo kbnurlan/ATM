@@ -24,7 +24,6 @@ jobs:
 
       - name: Install dependencies
         run: |
-          Rscript -e "install.packages('openssl', repos='http://cran.rstudio.com/', version='2.1.1')"
           Rscript -e "install.packages(c('telegram.bot','readxl','gridExtra', 'tidyverse', 'grid', 'lubridate','pillar','tidyquant'))"
 
 
