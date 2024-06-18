@@ -9,8 +9,7 @@ library(grid)
 
 
 df = readxl::read_excel('last_down.xlsx') %>% 
-  select(ATM_ID,Address,everything()) %>% 
-  select(ATM_ID,Address,Device,Elapsed_time) %>% 
+  select(ATM_ID,Address,everything()) %>%  
   filter(Elapsed_time>=0)
 
 df_ = readxl::read_excel('last_problem.xlsx') %>% 
