@@ -9,7 +9,11 @@ library(grid)
 
 
 df = readxl::read_excel('last_down.xlsx') %>% 
+<<<<<<< HEAD
   select(ATM_ID,Address,everything()) %>% 
+=======
+  select(ATM_ID,Address,everything()) %>%  
+>>>>>>> 1da96980e0a6575059e6bcb3bbe22f9c4eaabb69
   filter(Elapsed_time>=0)
 
 df_ = readxl::read_excel('last_problem.xlsx') %>% 
