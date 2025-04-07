@@ -1,0 +1,3802 @@
+Issue Type,Issue key,Issue id,Status,Resolution,Summary,Custom field (Transaction ID),Assignee,Reporter,Custom field (Responsible team),Custom field (2nd line team group),Updated,Custom field (Customer request category),Description,Custom field (Means of request),Custom field (Operation amount),Custom field (Əldə olunmayan məbləğ),Custom field (Full name of customer),Created,Custom field (ATM number),Custom field (PB - Müştəri müraciətin növü),Custom field (Unearned amount),Custom field (PAN number of the card),Custom field (Date of operation),Custom field (Approval code),Custom field (Transaction amount),Custom field (Currency),Custom field (Contact phone of client),Custom field (Type of request),Custom field (Products and services information),Custom field (VÖEN),Custom field (Müştəri FIN),Custom field (Terminal İD),Custom field (Date time of operation),Custom field (Mobile number)
+DCR,BR-5471119,7023021,2nd line analysis,,Müştəri müraciəti: ABDULLAYEV RAMİL XƏLİL OĞLU: Şikayət,0.0,AbbasovKAl,MusayevaNN,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 11:42 AM,Cash out,"
+CIF: 4485524
+    
+{
+  ""Kart nömrəsi"" : ""523915******3337""
+  ""Əməliyyatın tarixi"" : ""2025-04-07T10:53:04""
+  ""RRN"" : ""16058360342""
+  ""Tranzaksiya İD"" : ""16058360342""
+  ""Əməliyyatın məbləği"" : ""20""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""856022""
+  ""Terminal"" : ""A0100486""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005335870100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,20 AZN,20 AZN AZN,ABDULLAYEV RAMİL XƏLİL OĞLU,07/Apr/25 11:37 AM,A0100486,,,,,,,,+994702312324,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994702312324
+DCR,BR-5471101,7023013,2nd line analysis,,Müştəri müraciəti: QOLUBEV VADİM ALEKSANDROVİÇ: Şikayət,,AbbasovaDA,crmcc,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 11:37 AM,,"Salam mushteri exchange edirdi lakin ATM vesaiti vermedi . s/v istenildi z.o destek olardiz
+birbank karti istifade elemir 
+ABB 5167513348539412
+
+CIF: 0081159
+CMS ID: 10434287
+FIN: 0ZTXYFM
+Seria nömrəsi: AZE18405409 
+Hesab: 38810944010452139123
+Müştəridən screen istənildi",Call Center,,,QOLUBEV VADİM ALEKSANDROVİÇ,07/Apr/25 11:34 AM,A0166022,,,,,,,,0555688383,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0555688383
+DCR,BR-5471009,7022768,2nd line analysis,,Müştəri müraciəti: İLYASOVA GÜLNARƏ RƏHMAN QIZI: Şikayət,,SamadovaAM,IsayevaSK,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 11:24 AM,Cash out,"
+CIF: 4185577
+CMS ID: 16587357
+FIN: 6F451A7
+Seria nömrəsi: AA1565299 
+Hesab: 38810944011652549299
+Salam.Müştəri 05.04.2025-ci il tarixində bankomatdan vəsait çıxaran zaman bankomat sönüb vəsait müştəriyə təqdim edilməyib.Vəsaitin kartdan sioldiyi görünür.Z.o dəstək olmağınızı xahiş edirəm.
+PAN   523915******2261
+HESAB   38810944011652549299 
+",Filial ,31,31 AZN,İLYASOVA GÜLNARƏ RƏHMAN QIZI,07/Apr/25 11:20 AM,A0170009,,,,,,,,0552610680,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0552610680
+DCR,BR-5470963,7022661,2nd line analysis,,Müştəri müraciəti: Qruzinov Yuriy Timofeyeviç: Şikayət,,MemmedovaNS,crmcc,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 11:17 AM,,"
+ATM nömrəsi: A0100309
+CMS ID: Yoxdur
+FIN: Yoxdur
+Seria nömrəsi: Yoxdur 
+salam müştəri 300USD exchange edirdi vəsaitlər bankomatda qalıb z.o dəstək olasız
+",Call Center,,,Qruzinov Yuriy Timofeyeviç,07/Apr/25 11:14 AM,A0100309,,,,,,,,+994553448384,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994553448384
+DCR,BR-5470911,7022805,2nd line analysis,,Müştəri müraciəti: Şixzadayev Akif: Şikayət,,MalikovaSF,IsgandarovaFH,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 11:12 AM,Exchance, salam 100 dollar geri vermeyib,Call Center,,,Şixzadayev Akif,07/Apr/25 11:07 AM,,,,,,,,,000,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,000
+DCR,BR-5470841,7022621,2nd line analysis,,Müştəri müraciəti: SULTANOV MİRZƏCAN RASİM OĞLU: Şikayət,,HaciyevaAN,BayramovSE,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 11:02 AM,,"
+CIF: 8813776
+    
+{
+  ""Kart nömrəsi"" : ""416973******7010""
+  ""Əməliyyatın tarixi"" : ""2025-04-07T10:46:45""
+  ""RRN"" : ""16058265212""
+  ""Tranzaksiya İD"" : ""16058265212""
+  ""Əməliyyatın məbləği"" : ""30""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""937104""
+  ""Terminal"" : ""A0100165""
+  ""Hesab nömrəsi"" : ""38817944006255383100""
+}
+",Call Center,,,SULTANOV MİRZƏCAN RASİM OĞLU,07/Apr/25 11:00 AM,,,,,,,,,0513300097,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0513300097
+DCR,BR-5470814,7022610,2nd line analysis,,Müştəri müraciəti: ƏBDÜRRƏHMANOVA NAİLƏ MAHMUD QIZI: Şikayət,,AliyevHS,HasanzadaSE,Müştəri müraciətlərinin araşdırılması şöbəsi - Yazılı (HR-1343171),ATM Optimization,07/Apr/25 11:02 AM,Cash out,"Salam müştəri 06.04.2025 tarixində  Klinik tibbi mərkəz xəstəxanasının daxilində yerləşən bankomata kartını daxil edib heçbir məbləğ yazmayıb, lakin müştərinin kartından 2000 AZN vəsait silinib. Zəhmət olmasa araşdırılıb vəsaitin geri qaytarılmasına dəstək olasınız.
+CIF: 2317198
+CMS ID: 11316352
+FIN: 1HG421W
+Seria nömrəsi: AZE16301671 
+Hesab: 38810944011620044103
+",Filial ,2000,2000 AZN,ƏBDÜRRƏHMANOVA NAİLƏ MAHMUD QIZI,07/Apr/25 10:58 AM,-,,,,,,,,0506166261,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0506166261
+DCR,BR-5470799,7022462,2nd line analysis,,Müştəri müraciəti: TALIBOV BƏHRUZ ŞİRBALA OĞLU: Şikayət,,AbdullayevaLP,AgalarovRS,Müştəri müraciətlərinin araşdırılması şöbəsi - Yazılı (HR-1343171),ATM Optimization,07/Apr/25 10:57 AM,Cash out,"
+CIF: 3123793
+CMS ID: 9377047
+FIN: 1K9RRXP
+Seria nömrəsi: AZE07845523 
+Hesab: 38810944007288147106
+Müştəri 31.03.2025 tarixində atm-dən 2000 azn nağlaşdırmadığını iddia edir z/o araşdırılaraq məlumat verəsiniz
+",Filial ,2000,2000 AZN,TALIBOV BƏHRUZ ŞİRBALA OĞLU,07/Apr/25 10:57 AM,A0100375,,,,,,,,506621139,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,506621139
+DCR,BR-5470675,7022299,2nd line analysis,,Müştəri müraciəti: MƏMMƏDOVA SÜDABƏ TEYMUR QIZI: Şikayət,,SamadovaAM,QuliyevaAS,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 10:42 AM,,"
+CIF: 0404164
+    
+{
+  ""Kart nömrəsi"" : ""416973******0199""
+  ""Əməliyyatın tarixi"" : ""2025-04-06T22:49:19""
+  ""RRN"" : ""16053550158""
+  ""Tranzaksiya İD"" : ""16053550158""
+  ""Əməliyyatın məbləği"" : ""100""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""051383""
+  ""Terminal"" : ""A0127033""
+  ""Hesab nömrəsi"" : ""38817944001979968100""
+}
+",Filial ,,,MƏMMƏDOVA SÜDABƏ TEYMUR QIZI,07/Apr/25 10:38 AM,,,,,,,,,0503045740,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0503045740
+DCR,BR-5470544,7022153,2nd line analysis,,Müştəri müraciəti: NAĞIYEV ELVİN ASİF OĞLU: Şikayət,,MammadovaFZ,KarimovaGS,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 10:22 AM,Cash out,"
+CIF: 2223818
+    
+{
+  ""Kart nömrəsi"" : ""416973******1701""
+  ""Əməliyyatın tarixi"" : ""2025-04-07T10:10:43""
+  ""RRN"" : ""16057733347""
+  ""Tranzaksiya İD"" : ""16057733347""
+  ""Əməliyyatın məbləği"" : ""150""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""943064""
+  ""Terminal"" : ""A0100076""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944001469496100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,150 AZN,150 AZN AZN,NAĞIYEV ELVİN ASİF OĞLU,07/Apr/25 10:21 AM,A0100076,,,,,,,,+994555922020,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994555922020
+DCR,BR-5470497,7022221,2nd line analysis,,Müştəri müraciəti: MƏMMƏDOV RAUF MAHİR OĞLU: Şikayət,,HuseynovaNV,RzayevaGI,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 11:03 AM,Digər,"
+CIF: 8926983
+CMS ID: 6949703
+FIN: 4NPT4XE
+Seria nömrəsi: AA6217096 
+Hesab: 38817944003060342100
+Salam Hörmətli Həmkarlar,
+Müştəri 04.04.2025 tarixində ATM vasitəsi ilə 22 manat məbləğində nağlaşdırma edən zaman işıq sönmüşdür. Məbləğ silinib pul nağdlaşdırılmamışdır.
+ Xahiş edirik köməklik göstərəsininz.",Filial ,22,22 AZN,MƏMMƏDOV RAUF MAHİR OĞLU,07/Apr/25 10:16 AM,A0180007,,,,,,,,0553908687,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0553908687
+DCR,BR-5470460,7022110,2nd line analysis,,Müştəri müraciəti: MEHDİYEVA SƏBİNƏ ƏLİƏSKƏR QIZI: Şikayət,,EkberovaS,crmcc,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 10:17 AM,,"
+CIF: 3594042
+CMS ID: 15067255
+FIN: 29FHQ1K
+Seria nömrəsi: AA0377581 
+Hesab: 38817944004878038100
+Salam musteri kartina 04.04.2025tarixinde 40 manat medaxil etmek isdeyen zaman pul ATMde qaldi. Zehmet olmasa destek olasiniz
+musteri screen gonderecek",Call Center,,,MEHDİYEVA SƏBİNƏ ƏLİƏSKƏR QIZI,07/Apr/25 10:12 AM,A0100093,,,,,,,,0503426636,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0503426636
+DCR,BR-5470381,7021877,2nd line analysis,,Müştəri müraciəti: ABBASOV ANAR ELDAR OĞLU: Şikayət,,AlasgarliAF,AliyevaMM,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 10:07 AM,Cash out,"
+CIF: 1222447
+    
+{
+  ""Kart nömrəsi"" : ""510307******2756""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T21:32:44""
+  ""RRN"" : ""16018916169""
+  ""Tranzaksiya İD"" : ""16018916169""
+  ""Əməliyyatın məbləği"" : ""361""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""983121""
+  ""Terminal"" : ""A0182028""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944012088060128""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,361 AZN,361 AZN,ABBASOV ANAR ELDAR OĞLU,07/Apr/25 10:06 AM,A0182028,,,,,,,,0773650565,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0773650565
+DCR,BR-5470376,7021976,2nd line analysis,,Müştəri müraciəti: ABBASOV ANAR ELDAR OĞLU: Şikayət,,AbdullayevSM,AliyevaMM,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 10:07 AM,Cash out,"
+CIF: 1222447
+    
+{
+  ""Kart nömrəsi"" : ""510307******2756""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T21:32:44""
+  ""RRN"" : ""16018916169""
+  ""Tranzaksiya İD"" : ""16018916169""
+  ""Əməliyyatın məbləği"" : ""361""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""983121""
+  ""Terminal"" : ""A0182028""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944012088060128""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,361 AZN,361 AZN,ABBASOV ANAR ELDAR OĞLU,07/Apr/25 10:05 AM,A0182028,,,,,,,,0773650565,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0773650565
+DCR,BR-5470371,7021974,2nd line analysis,,Müştəri müraciəti: ƏKBƏRLİ İLQAR ELMAN OĞLU: Şikayət,,AbbasovKAl,crmcc,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 10:07 AM,,"
+CIF: 0378005
+CMS ID: 5944442
+FIN: 5V2UW1L
+Seria nömrəsi: AA2314501 
+Hesab: 38817944002429455100
+
+Salam müştəri iddia edir ki exchange zamanı vəsait atm də qalıb ekran sönüb və pul nə azn nə usd verilməyib z.o dəstək olasız screen istənildi ş.v göndərəcəyini bildirdi bu kart hesabına mədaxil olmasını istəyir.",Call Center,,,ƏKBƏRLİ İLQAR ELMAN OĞLU,07/Apr/25 10:04 AM,A0100448,,,,,,,,0558879848,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0558879848
+DCR,BR-5470313,7021774,2nd line analysis,,Müştəri müraciəti: MİRZƏYEV ELMƏDDİN VAQİF OĞLU: Şikayət,0.0,NabiyevMA,MusayevaNN,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 9:57 AM,Cash out,"
+CIF: 1905712
+    
+{
+  ""Kart nömrəsi"" : ""523915******8494""
+  ""Əməliyyatın tarixi"" : ""2025-03-30T14:12:43""
+  ""RRN"" : ""15922081848""
+  ""Tranzaksiya İD"" : ""15922081848""
+  ""Əməliyyatın məbləği"" : ""5""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""574256""
+  ""Terminal"" : ""A0151033""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003661027100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,5 AZN,5 AZN AZN,MİRZƏYEV ELMƏDDİN VAQİF OĞLU,07/Apr/25 9:55 AM,A0151033,,,,,,,,+994508613727,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994508613727
+DCR,BR-5470272,7021918,2nd line analysis,,Müştəri müraciəti: HƏSƏNOV ŞİRXAN İSAXAN OĞLU: Şikayət,,MammadovaFZ,RamazanovaJU,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 9:52 AM,Cash out,"
+CIF: 3309109
+    
+{
+  ""Kart nömrəsi"" : ""523915******0717""
+  ""Əməliyyatın tarixi"" : ""2025-04-07T09:30:41""
+  ""RRN"" : ""16057193856""
+  ""Tranzaksiya İD"" : ""16057193856""
+  ""Əməliyyatın məbləği"" : ""60""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""505531""
+  ""Terminal"" : ""A0100123""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005223523100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,60 AZN,60 AZN,HƏSƏNOV ŞİRXAN İSAXAN OĞLU,07/Apr/25 9:48 AM,A0100123,,,,,,,,+994103228998,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994103228998
+DCR,BR-5470238,7021741,2nd line analysis,,Müştəri müraciəti: İBRAHİMOVA ÜLVİYYƏ ELYAS QIZI: Şikayət,,KerimovFA,AsadliSI,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 9:47 AM,Cash out,"
+CIF: 2134844
+    
+{
+  ""Kart nömrəsi"" : ""510307******2438""
+  ""Əməliyyatın tarixi"" : ""2025-04-06T09:51:42""
+  ""RRN"" : ""16041394977""
+  ""Tranzaksiya İD"" : ""16041394977""
+  ""Əməliyyatın məbləği"" : ""190""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""137047""
+  ""Terminal"" : ""A0151001""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944008377364113""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Filial ,190 AZN,190 AZN,İBRAHİMOVA ÜLVİYYƏ ELYAS QIZI,07/Apr/25 9:43 AM,A0151001,,,,,,,,0552769136,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0552769136
+DCR,BR-5470175,7021718,2nd line analysis,,Müştəri müraciəti: YUSİFOV COŞQUN CEYFUN OĞLU: Şikayət,,BagirovaXG,crmcc,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 9:37 AM,,"
+CIF: 2816957
+CMS ID: 10790837
+FIN: 7RN7XVS
+Seria nömrəsi: AA3942811 
+Hesab: null 
+Salam müştəri 1200 dolları valyuta dəyişimi edən zaman atmdə qalıb vəsaiti. Saat 15.20-15.30 aralığında. Şəxsiyyət vəsiqəsi istənildi.
+Qəbz yoxdur.",Call Center,,,YUSİFOV COŞQUN CEYFUN OĞLU,07/Apr/25 9:36 AM,A0100544,,,,,,,,0515836625,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0515836625
+DCR,BR-5470029,7021452,2nd line analysis,,Müştəri müraciəti: İBRAHİMOV SAHİB ŞÜKÜR OĞLU: Şikayət,,AbdullayevFFa,BagirovFA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 9:22 AM,Cash out,"
+CIF: 7004535
+CMS ID: 4065353
+FIN: 2T6L9RY
+Seria nömrəsi: AZE13988878 
+Hesab: 38810944003017149170
+
+Salam
+Müştəri kartını bankomatda istifadə edə bilməyib kart blokdadir yazilib deyir ancaq kartdan vəsait silinib.Müştəri vəsaiti almadigini iddia edir",Filial ,49,49 AZN,İBRAHİMOV SAHİB ŞÜKÜR OĞLU,07/Apr/25 9:20 AM,A0170001,,,,,,,,0556109725,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0556109725
+DCR,BR-5469973,7021368,2nd line analysis,,Müştəri müraciəti: MƏMMƏDOV SAKİN AYDIN OĞLU: Şikayət,,AbbasovaDA,CaltikovaNN,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 9:17 AM,Cash out,"
+CIF: 8908116
+    
+{
+  ""Kart nömrəsi"" : ""416973******3348""
+  ""Əməliyyatın tarixi"" : ""2025-04-07T00:53:13""
+  ""RRN"" : ""16054972295""
+  ""Tranzaksiya İD"" : ""16054972295""
+  ""Əməliyyatın məbləği"" : ""100""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""444135""
+  ""Terminal"" : ""A0127008""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009723424180""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,100 AZN,100 AZN,MƏMMƏDOV SAKİN AYDIN OĞLU,07/Apr/25 9:12 AM,A0127008,,,,,,,,+994518171213,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994518171213
+DCR,BR-5469970,7021279,2nd line analysis,,Müştəri müraciəti: TURABOVA TƏZƏGÜL NƏCMƏDDİN QIZI: Şikayət,,TanriverdiyevaGN,IsayevaSK,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 11:23 AM,Cash out,"
+CIF: 3339181
+CMS ID: 11828192
+FIN: 2ECP4PX
+Seria nömrəsi: AA5813687 
+Hesab: 38810944008568236107
+Salam.Müştəri 05.04.2025-ci il tarixində bankomatdan vəsait çıxaran zaman bankomat sönüb vəsait müştəriyə təqdim edilməyib.Vəsaitin kartdan sioldiyi görünür.Z.o dəstək olmağınızı xahiş edirəm.
+PAN    416974******5442
+HESAB NÖMRƏSİ  38810944008568236107
+",Filial ,250,250 AZN,TURABOVA TƏZƏGÜL NƏCMƏDDİN QIZI,07/Apr/25 9:11 AM,A0170003,,,,,,,,0703787702,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0703787702
+DCR,BR-5469947,7021264,2nd line analysis,,Müştəri müraciəti: MƏMMƏDOV VİLAYƏT NƏZİRMƏHƏMMƏD OĞLU: Şikayət,,SamadovaAM,AbdurahmanovUN,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 9:07 AM,Cash out,"
+CIF: 2021027
+    
+{
+  ""Kart nömrəsi"" : ""523915******1939""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T09:50:30""
+  ""RRN"" : ""16005167096""
+  ""Tranzaksiya İD"" : ""16005167096""
+  ""Əməliyyatın məbləği"" : ""75""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""213303""
+  ""Terminal"" : ""A0170032""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944004563851100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Filial ,75 AZN,75 AZN,MƏMMƏDOV VİLAYƏT NƏZİRMƏHƏMMƏD OĞLU,07/Apr/25 9:07 AM,A0170032,,,,,,,,0706387609,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0706387609
+DCR,BR-5469906,7021151,2nd line analysis,,Müştəri müraciəti: İSAYEV RAHİL RAHİB OĞLU: Şikayət,,NabiyevMA,AbsalamzadaAA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 8:47 AM,Cash out,"
+CIF: 1162058
+    
+{
+  ""Kart nömrəsi"" : ""416973******3846""
+  ""Əməliyyatın tarixi"" : ""2025-04-07T08:32:16""
+  ""RRN"" : ""16056569761""
+  ""Tranzaksiya İD"" : ""16056569761""
+  ""Əməliyyatın məbləği"" : ""99""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""455997""
+  ""Terminal"" : ""A0178019""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009138208172""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,99 AZN,99 AZN,İSAYEV RAHİL RAHİB OĞLU,07/Apr/25 8:44 AM,A0178019,,,,,,,,0518429505,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0518429505
+DCR,BR-5469903,7021150,2nd line analysis,,Müştəri müraciəti: ƏSƏDOV ELŞAD İSGƏNDƏR OĞLU: Şikayət,,MemmedovaNS,QasimovaGR,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 8:47 AM,Cash out,"
+CIF: 3211350
+    
+{
+  ""Kart nömrəsi"" : ""416973******0547""
+  ""Əməliyyatın tarixi"" : ""2025-04-07T08:29:24""
+  ""RRN"" : ""16056543836""
+  ""Tranzaksiya İD"" : ""16056543836""
+  ""Əməliyyatın məbləği"" : ""1150""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""384895""
+  ""Terminal"" : ""A0141035""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009759773123""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,1150 AZN,1150 AZN,ƏSƏDOV ELŞAD İSGƏNDƏR OĞLU,07/Apr/25 8:43 AM,A0141035,,,,,,,,0505801012,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0505801012
+DCR,BR-5469870,7021305,2nd line analysis,,Müştəri müraciəti: ƏLİYEV İSMAYIL SEYFUR OĞLU: Şikayət,,MalikovaSF,AbsalamzadaAA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 8:22 AM,Cash out,"
+CIF: 2016606
+    
+{
+  ""Kart nömrəsi"" : ""510307******3390""
+  ""Əməliyyatın tarixi"" : ""2025-04-07T08:03:51""
+  ""RRN"" : ""16056324262""
+  ""Tranzaksiya İD"" : ""16056324262""
+  ""Əməliyyatın məbləği"" : ""154""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""233214""
+  ""Terminal"" : ""A0166039""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944000532500165""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,154 AZN,154 AZN,ƏLİYEV İSMAYIL SEYFUR OĞLU,07/Apr/25 8:20 AM,A0166039,,,,,,,,0505120983,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0505120983
+DCR,BR-5469868,7021304,2nd line analysis,,Müştəri müraciəti: MEHDİYEV ELGİZ HƏSƏN OĞLU: Şikayət,,KerimovFA,MammadovaAC,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 8:17 AM,Cash out,"
+CIF: 4368556
+    
+{
+  ""Kart nömrəsi"" : ""416973******0425""
+  ""Əməliyyatın tarixi"" : ""2025-03-29T11:48:23""
+  ""RRN"" : ""15904474943""
+  ""Tranzaksiya İD"" : ""15904474943""
+  ""Əməliyyatın məbləği"" : ""2""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""860673""
+  ""Terminal"" : ""A0180009""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944006099505100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,2 AZN,2 AZN,MEHDİYEV ELGİZ HƏSƏN OĞLU,07/Apr/25 8:16 AM,A0180009,,,,,,,,0516643477,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0516643477
+DCR,BR-5469865,7021217,2nd line analysis,,Müştəri müraciəti: MEHDİYEV ELGİZ HƏSƏN OĞLU: Şikayət,,HuseynovaNV,MammadovaAC,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 8:17 AM,Cash out,"
+CIF: 4368556
+    
+{
+  ""Kart nömrəsi"" : ""416973******0425""
+  ""Əməliyyatın tarixi"" : ""2025-03-29T09:34:44""
+  ""RRN"" : ""15902990645""
+  ""Tranzaksiya İD"" : ""15902990645""
+  ""Əməliyyatın məbləği"" : ""16""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""005664""
+  ""Terminal"" : ""A0180009""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944006099505100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,16 AZN,16 AZN,MEHDİYEV ELGİZ HƏSƏN OĞLU,07/Apr/25 8:15 AM,A0180009,,,,,,,,0516643477,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0516643477
+DCR,BR-5469840,7020996,2nd line analysis,,Müştəri müraciəti: ƏLİYEV QİYAS ƏMANƏT OĞLU: Şikayət,0.0,HaciyevaAN,BayramovaNF,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 7:42 AM,Cash out,"
+CIF: 9146844
+    
+{
+  ""Kart nömrəsi"" : ""510307******9733""
+  ""Əməliyyatın tarixi"" : ""2025-04-06T23:04:02""
+  ""RRN"" : ""16053745275""
+  ""Tranzaksiya İD"" : ""16053745275""
+  ""Əməliyyatın məbləği"" : ""90""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""142275""
+  ""Terminal"" : ""A0100123""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944002861624101""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Web-site,90 AZN,90 AZN,ƏLİYEV QİYAS ƏMANƏT OĞLU,07/Apr/25 7:37 AM,A0100123,,,,,,,,0709171808,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0709171808
+DCR,BR-5469753,7021070,2nd line analysis,,Müştəri müraciəti: ƏBDÜRRƏHMANOVA NAİLƏ MAHMUD QIZI: Şikayət,,AlasgarliAF,RahimliIKa,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 11:42 PM,Cash out,"
+CIF: 2317198
+    
+{
+  ""Kart nömrəsi"" : ""510307******3223""
+  ""Əməliyyatın tarixi"" : ""2025-04-06T09:45:18""
+  ""RRN"" : ""16041334159""
+  ""Tranzaksiya İD"" : ""16041334159""
+  ""Əməliyyatın məbləği"" : ""2000""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""189074""
+  ""Terminal"" : ""A0100506""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944011620044103""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,2000 AZN,2000 AZN,ƏBDÜRRƏHMANOVA NAİLƏ MAHMUD QIZI,06/Apr/25 11:37 PM,A0100506,,,,,,,,0506166261,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0506166261
+DCR,BR-5469712,7020943,2nd line analysis,,Müştəri müraciəti: HÜSEYNOVA KƏMALƏ TAĞI QIZI: Şikayət,,AbdullayevFFa,RacabovaNSa,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 10:57 PM,Cash out,"
+CIF: 1885370
+    
+{
+  ""Kart nömrəsi"" : ""416973******9349""
+  ""Əməliyyatın tarixi"" : ""2025-04-06T22:03:02""
+  ""RRN"" : ""16052872440""
+  ""Tranzaksiya İD"" : ""16052872440""
+  ""Əməliyyatın məbləği"" : ""160""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""763186""
+  ""Terminal"" : ""A0100178""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944006263995100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,160 AZN,160 AZN,HÜSEYNOVA KƏMALƏ TAĞI QIZI,06/Apr/25 10:56 PM,A0100178,,,,,,,,0504741988,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0504741988
+DCR,BR-5469556,7020834,2nd line analysis,,Müştəri müraciəti: BABAYEV RAMİL ƏVƏZ OĞLU: Şikayət,,SamadovaAM,SultanovaAS,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 7:42 PM,Cash out,"
+CIF: 4288446
+    
+{
+  ""Kart nömrəsi"" : ""523915******8201""
+  ""Əməliyyatın tarixi"" : ""2025-04-06T19:31:34""
+  ""RRN"" : ""TGDR301796968""
+  ""Tranzaksiya İD"" : ""16050210259""
+  ""Əməliyyatın məbləği"" : ""5""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""162959""
+  ""Terminal"" : ""BirBankATMQR""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944011641634199""
+  ""Əməliyyat"" : ""POS P2P Debit""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,5 AZN,5azn AZN,BABAYEV RAMİL ƏVƏZ OĞLU,06/Apr/25 7:40 PM,BirBankATMQR,,,,,,,,0504076095,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0504076095
+DCR,BR-5469517,7020745,2nd line analysis,,Müştəri müraciəti: BAĞIŞOV SULTAN İSAMƏDDİN OĞLU: Şikayət,,MammadovaFZ,RacabovaNSa,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 6:42 PM,Cash out,"
+CIF: 1894790
+    
+{
+  ""Kart nömrəsi"" : ""416973******7773""
+  ""Əməliyyatın tarixi"" : ""2025-04-06T18:00:23""
+  ""RRN"" : ""16048678933""
+  ""Tranzaksiya İD"" : ""16048678933""
+  ""Əməliyyatın məbləği"" : ""50""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""636856""
+  ""Terminal"" : ""A0166008""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944001509093100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,50 AZN,50 AZN,BAĞIŞOV SULTAN İSAMƏDDİN OĞLU,06/Apr/25 6:41 PM,A0166008,,,,,,,,0503933436,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0503933436
+DCR,BR-5469497,7020820,2nd line analysis,,Müştəri müraciəti: İMANOVA XƏYALƏ SALEH QIZI: Şikayət,,HuseynovaNV,RahimovaASa,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 6:22 PM,Cash out,"
+CIF: 4376626
+CMS ID: 8821872
+FIN: 7J5EDET
+Seria nömrəsi: AA3099380 
+Hesab: 38817944004666555100
+Salam, vəsait atm-də qalıb.
+6 aprel -1000 
+id-16048766225
+A0140033",Web-site,1000,1000 AZN,İMANOVA XƏYALƏ SALEH QIZI,06/Apr/25 6:20 PM,A0140033,,,,,,,,0519812504,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0519812504
+DCR,BR-5469480,7020584,2nd line analysis,,Müştəri müraciəti: BALAYEV RİYAD MAYIL OĞLU: Şikayət,,BagirovaXG,SuleymanzadaUS,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 6:07 PM,Cash out,"
+CIF: 1738567
+    
+{
+  ""Kart nömrəsi"" : ""416973******3380""
+  ""Əməliyyatın tarixi"" : ""2025-04-06T17:37:38""
+  ""RRN"" : ""16048309783""
+  ""Tranzaksiya İD"" : ""16048309783""
+  ""Əməliyyatın məbləği"" : ""200""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""507282""
+  ""Terminal"" : ""A0182001""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009157911182""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,200 AZN,200 AZN,BALAYEV RİYAD MAYIL OĞLU,06/Apr/25 6:02 PM,A0182001,,,,,,,,0775019091,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0775019091
+DCR,BR-5469442,7020568,2nd line analysis,,Müştəri müraciəti: FEYZULLAYEV RÜSTƏM RƏŞAD OĞLU: Şikayət,,AlizadaSIl,UlubayovaAZ,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 5:37 PM,Cash out,"
+CIF: 2147909
+    
+{
+  ""Kart nömrəsi"" : ""416973******4247""
+  ""Əməliyyatın tarixi"" : ""2025-04-06T17:23:12""
+  ""RRN"" : ""16048076572""
+  ""Tranzaksiya İD"" : ""16048076572""
+  ""Əməliyyatın məbləği"" : ""20""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""218137""
+  ""Terminal"" : ""A0178009""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944002615805100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,20 AZN,20 AZN,FEYZULLAYEV RÜSTƏM RƏŞAD OĞLU,06/Apr/25 5:35 PM,A0178009,,,,,,,,+994517220203,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994517220203
+DCR,BR-5469334,7020532,2nd line analysis,,Müştəri müraciəti: MUSAYEV VÜQAR KAMİL OĞLU: Şikayət,,TanriverdiyevaGN,MammadovaAKa,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 3:57 PM,Cash out,"
+CIF: 0802606
+    
+{
+  ""Kart nömrəsi"" : ""416973******7233""
+  ""Əməliyyatın tarixi"" : ""2025-04-06T15:48:40""
+  ""RRN"" : ""16046562240""
+  ""Tranzaksiya İD"" : ""16046562240""
+  ""Əməliyyatın məbləği"" : ""800""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""320488""
+  ""Terminal"" : ""A0101023""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944001986009100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,800 AZN,800 AZN,MUSAYEV VÜQAR KAMİL OĞLU,06/Apr/25 3:55 PM,A0101023,,,,,,,,0603323233,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0603323233
+DCR,BR-5469285,7020462,2nd line analysis,,Müştəri müraciəti: MƏMMƏDOV HƏMZƏ ÜZEYR OĞLU: Şikayət,,HasimzadaSR,IbrahimliZSa,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 3:22 PM,Cash out,"
+CIF: 5178552
+    
+{
+  ""Kart nömrəsi"" : ""416973******9959""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T20:07:39""
+  ""RRN"" : ""15997931867""
+  ""Tranzaksiya İD"" : ""15997931867""
+  ""Əməliyyatın məbləği"" : ""800""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""413493""
+  ""Terminal"" : ""A0170005""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005735068100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,800 AZN,100 AZN,MƏMMƏDOV HƏMZƏ ÜZEYR OĞLU,06/Apr/25 3:19 PM,A0170005,,,,,,,,0555168180,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0555168180
+DCR,BR-5469279,7020638,2nd line analysis,,Müştəri müraciəti: İBRAHİMOV AYDIN ŞAHİN OĞLU: Şikayət,,HaciyevaAN,NagiyevaIH,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 3:17 PM,Cash out,"
+CIF: 2414597
+    
+{
+  ""Kart nömrəsi"" : ""523915******9140""
+  ""Əməliyyatın tarixi"" : ""2025-04-06T15:06:52""
+  ""RRN"" : ""16045904039""
+  ""Tranzaksiya İD"" : ""16045904039""
+  ""Əməliyyatın məbləği"" : ""50""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""614363""
+  ""Terminal"" : ""A0100027""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944008479087107""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,50 AZN,50 AZN,İBRAHİMOV AYDIN ŞAHİN OĞLU,06/Apr/25 3:16 PM,A0100027,,,,,,,,0519278427,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0519278427
+DCR,BR-5469137,7020365,2nd line analysis,,Müştəri müraciəti: SARIYEVA NƏRMİN AZƏR QIZI: Şikayət,0.0,TanriverdiyevaGN,HuseynovaNElx,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 1:52 PM,Cash out,"
+CIF: 0339995
+    
+{
+  ""Kart nömrəsi"" : ""523915******4178""
+  ""Əməliyyatın tarixi"" : ""2025-04-06T13:39:38""
+  ""RRN"" : ""16044518129""
+  ""Tranzaksiya İD"" : ""16044518129""
+  ""Əməliyyatın məbləği"" : ""60""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""523229""
+  ""Terminal"" : ""A0170028""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944004669382100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,60 AZN,60 AZN,SARIYEVA NƏRMİN AZƏR QIZI,06/Apr/25 1:49 PM,A0170028,,,,,,,,0515099551,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0515099551
+DCR,BR-5469122,7020272,2nd line analysis,,Müştəri müraciəti: ƏKBƏRLİ ADİL VÜQAR OĞLU: Şikayət,,ShiraliyevaAV,SarifovaCE,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 1:37 PM,Cash out,"
+CIF: 2888847
+    
+{
+  ""Kart nömrəsi"" : ""416973******0543""
+  ""Əməliyyatın tarixi"" : ""2025-04-06T13:27:15""
+  ""RRN"" : ""16044321684""
+  ""Tranzaksiya İD"" : ""16044321684""
+  ""Əməliyyatın məbləği"" : ""20""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""228285""
+  ""Terminal"" : ""A0138049""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005016187100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,20 AZN,20 AZN,ƏKBƏRLİ ADİL VÜQAR OĞLU,06/Apr/25 1:35 PM,A0138049,,,,,,,,+994707654363,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994707654363
+DCR,BR-5469090,7020258,2nd line analysis,,Müştəri müraciəti: AĞAYEV SÜBHAN XEYBƏR OĞLU: Şikayət,0.0,NabiyevMA,HaciyevaJP,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 1:07 PM,Cash out,"
+CIF: 4386925
+    
+{
+  ""Kart nömrəsi"" : ""416973******8728""
+  ""Əməliyyatın tarixi"" : ""2025-04-06T12:20:31""
+  ""RRN"" : ""16043301962""
+  ""Tranzaksiya İD"" : ""16043301962""
+  ""Əməliyyatın məbləği"" : ""95""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""669355""
+  ""Terminal"" : ""A0138051""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003174454100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,95 AZN,95 AZN,AĞAYEV SÜBHAN XEYBƏR OĞLU,06/Apr/25 1:07 PM,A0138051,,,,,,,,+994507269406,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994507269406
+DCR,BR-5469051,7020403,2nd line analysis,,Müştəri müraciəti: ƏLİYEV FUAD ŞAKİR OĞLU: Şikayət,,KerimovFA,HaciyevaZR,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 12:37 PM,Exchance,"
+CIF: 9968774
+CMS ID: 6445372
+FIN: 1ZZ9VP5
+Seria nömrəsi: AZE18358242 
+salam müştəri 200 dollar daxil edib atm sönüb vəsait əldə etməyib z.o dəstək olasınız",Call Center,200,200 USD,ƏLİYEV FUAD ŞAKİR OĞLU,06/Apr/25 12:33 PM,A0100175,,,,,,,,0503333320,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0503333320
+DCR,BR-5469036,7020244,2nd line analysis,,Müştəri müraciəti: AĞAYEV HƏSƏN SÜLEYMAN OĞLU: Şikayət,,HasimzadaSR,AbsalamzadaAA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 12:07 PM,Cash out,"
+CIF: 3645096
+    
+{
+  ""Kart nömrəsi"" : ""523915******2249""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T11:44:19""
+  ""RRN"" : ""16025790850""
+  ""Tranzaksiya İD"" : ""16025790850""
+  ""Əməliyyatın məbləği"" : ""180""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""267282""
+  ""Terminal"" : ""A0101028""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003842922100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,180 AZN,180 AZN,AĞAYEV HƏSƏN SÜLEYMAN OĞLU,06/Apr/25 12:03 PM,A0101028,,,,,,,,0705312678,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0705312678
+DCR,BR-5469031,7020243,2nd line analysis,,Müştəri müraciəti: MƏMMƏDOV BİLAL PAŞA OĞLU: Şikayət,1.0,HaciyevaAN,MammadliIU,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 11:57 AM,Cash out,"
+CIF: 2123218
+    
+{
+  ""Kart nömrəsi"" : ""523915******1990""
+  ""Əməliyyatın tarixi"" : ""2025-04-06T00:12:03""
+  ""RRN"" : ""16039062513""
+  ""Tranzaksiya İD"" : ""16039062513""
+  ""Əməliyyatın məbləği"" : ""300""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""171260""
+  ""Terminal"" : ""A0170031""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944010731538171""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,300 AZN,300 AZN,MƏMMƏDOV BİLAL PAŞA OĞLU,06/Apr/25 11:56 AM,A0170031,,,,,,,,0775956565,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0775956565
+DCR,BR-5469022,7020190,2nd line analysis,,Müştəri müraciəti: MÖVLAMOV RƏŞİD ZAMAN OĞLU: Şikayət,,BagirovaXG,HuseynovaNNi,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 11:52 AM,Cash out,"
+CIF: 9161155
+    
+{
+  ""Kart nömrəsi"" : ""416973******2303""
+  ""Əməliyyatın tarixi"" : ""2025-04-06T11:17:01""
+  ""RRN"" : ""16042400694""
+  ""Tranzaksiya İD"" : ""16042400694""
+  ""Əməliyyatın məbləği"" : ""5""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""279107""
+  ""Terminal"" : ""A0170021""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005936404100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,5 AZN,5 AZN,MÖVLAMOV RƏŞİD ZAMAN OĞLU,06/Apr/25 11:51 AM,A0170021,,,,,,,,994997344544,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,994997344544
+DCR,BR-5469021,7020240,2nd line analysis,,Müştəri müraciəti: FARAJ ZBEDAT SAMI: Şikayət,,AxundovaAE,BaxisovTC,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 11:52 AM,Exchance,Salam. Müştəri İsrail vətəndaşıdır. 4 Aprel 14:00-18:00 arası 200 USD məbləği exchange edən zaman məbləğ ATM-də qalıb. Qəbz mövcud deyil. ATM nömrəsi A0100283. Ölkəni 6 apreldə tərk edir. Məbləğin öz bank kartına köçürülməsini istəyir. Kart PAN 5118 9140 0051 0916. Şəxsiyyət vəsiqəsi fotosu istənildi. Z/o dəstək olun,Call Center,,,FARAJ ZBEDAT SAMI,06/Apr/25 11:50 AM,A0100283,,,,,,,,+972524683704,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+972524683704
+DCR,BR-5469000,7020307,2nd line analysis,,Müştəri müraciəti: MƏMMƏDOV BALADAYI ƏLİYULLA OĞLU: Şikayət,,AlizadaER,YusifovaST,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 11:32 AM,Cash out,"
+CIF: 4582575
+    
+{
+  ""Kart nömrəsi"" : ""416973******3877""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T22:36:52""
+  ""RRN"" : ""16037771674""
+  ""Tranzaksiya İD"" : ""16037771674""
+  ""Əməliyyatın məbləği"" : ""60""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""057224""
+  ""Terminal"" : ""A0100238""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005622419100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,60 AZN,60 AZN,MƏMMƏDOV BALADAYI ƏLİYULLA OĞLU,06/Apr/25 11:30 AM,A0100238,,,,,,,,505664064,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,505664064
+DCR,BR-5468998,7020229,2nd line analysis,,Müştəri müraciəti: MEHDİYEVA SƏBİNƏ ƏLİƏSKƏR QIZI: Şikayət,,AlasgarliAF,HuseynovaUE,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 11:27 AM,Cash in,"
+CIF: 3594042
+CMS ID: 15067255
+FIN: 29FHQ1K
+Seria nömrəsi: AA0377581 
+Hesab: 38817944004878038100
+Salam. Müştəri bildirir ki,  04.04. 2025 tarixində 28 mall ticarət mərkəzində 20.30-21.00 araliginda  qeyd olunan kartına 40 AZN  vesait medaxil edib. Lakin terminal qebz verməyib ve vesait kartina kocmeyib z.o. arasdirilib problemin aradan qaldirilmasina destek olasiniz.",Filial ,40,40 AZN,MEHDİYEVA SƏBİNƏ ƏLİƏSKƏR QIZI,06/Apr/25 11:25 AM,A0100093,,,,,,,,503426636,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,503426636
+DCR,BR-5468936,7020089,2nd line analysis,,Müştəri müraciəti: ABBASOVA NÜŞABƏ MANSUR QIZI: Şikayət,,AbbasovKAl,IbrahimliXM,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 10:27 AM,Cash out,"
+CIF: 3970021
+    
+{
+  ""Kart nömrəsi"" : ""416973******6147""
+  ""Əməliyyatın tarixi"" : ""2025-04-06T09:56:51""
+  ""RRN"" : ""16041446150""
+  ""Tranzaksiya İD"" : ""16041446150""
+  ""Əməliyyatın məbləği"" : ""85""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""291334""
+  ""Terminal"" : ""A0100441""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944006277731100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,85 AZN,85 AZN,ABBASOVA NÜŞABƏ MANSUR QIZI,06/Apr/25 10:20 AM,A0100441,,,,,,,,+994703482213,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994703482213
+DCR,BR-5468931,7020207,2nd line analysis,,Müştəri müraciəti: ABBASOVA NÜŞABƏ MANSUR QIZI: Şikayət,,AbbasovaDA,MacidliFR,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 10:17 AM,Cash out,"
+CIF: 3970021
+    
+{
+  ""Kart nömrəsi"" : ""416973******6147""
+  ""Əməliyyatın tarixi"" : ""2025-04-06T09:56:51""
+  ""RRN"" : ""16041446150""
+  ""Tranzaksiya İD"" : ""16041446150""
+  ""Əməliyyatın məbləği"" : ""85""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""291334""
+  ""Terminal"" : ""A0100441""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944006277731100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Web-site,85 AZN,85 AZN,ABBASOVA NÜŞABƏ MANSUR QIZI,06/Apr/25 10:15 AM,A0100441,,,,,,,,994775882525,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,994775882525
+DCR,BR-5468901,7020145,2nd line analysis,,Müştəri müraciəti: RASULOV OSMAN TALIB OĞLU: Şikayət,,TanriverdiyevaGN,AliyevaJI,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 9:37 AM,Cash out,"
+CIF: 8991918
+    
+{
+  ""Kart nömrəsi"" : ""416973******9844""
+  ""Əməliyyatın tarixi"" : ""2025-04-06T09:24:36""
+  ""RRN"" : ""16041146460""
+  ""Tranzaksiya İD"" : ""16041146460""
+  ""Əməliyyatın məbləği"" : ""80""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""416486""
+  ""Terminal"" : ""A0178009""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009689729129""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,80 AZN,15 AZN,RASULOV OSMAN TALIB OĞLU,06/Apr/25 9:36 AM,A0178009,,,,,,,,0503006631,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0503006631
+DCR,BR-5468881,7020139,2nd line analysis,,Müştəri müraciəti: MUSTAFAYEVA GÜLŞƏN OQTAY QIZI: Şikayət,,ShiraliyevaAV,QasimovaAE,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 7:57 AM,Cash out,"
+CIF: 5702604
+    
+{
+  ""Kart nömrəsi"" : ""416973******3041""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T16:44:35""
+  ""RRN"" : ""16012648488""
+  ""Tranzaksiya İD"" : ""16012648488""
+  ""Əməliyyatın məbləği"" : ""6""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""757227""
+  ""Terminal"" : ""A0100093""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944002669601100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,6 AZN,6 AZN,MUSTAFAYEVA GÜLŞƏN OQTAY QIZI,06/Apr/25 7:55 AM,A0100093,,,,,,,,0555847375,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0555847375
+DCR,BR-5468811,7020037,2nd line analysis,,Müştəri müraciəti: ƏSKƏROV MURAD PƏRVİZ OĞLU: Şikayət,,SamadovaAM,RahimovaASa,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 12:37 AM,Cash out,"
+CIF: 3883994
+CMS ID: 7499823
+FIN: 6K6VMAP
+Seria nömrəsi: AA5333207 
+Hesab: 38810944010918879115
+Salam, vəsait bankomatda qalıb. 
+10 azn 4 aprel 23:10- 16038239239
+A0100225",Web-site,10,10 AZN,ƏSKƏROV MURAD PƏRVİZ OĞLU,06/Apr/25 12:33 AM,A0100225,,,,,,,,0555206557,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0555206557
+DCR,BR-5468789,7020029,2nd line analysis,,Müştəri müraciəti: HƏSƏNOV ELÇİN NÜSRƏT OĞLU: Şikayət,,MammadzadaCF,AgayevaVF,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 11:22 PM,Cash out,"
+CIF: 3628502
+    
+{
+  ""Kart nömrəsi"" : ""416973******7231""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T22:44:38""
+  ""RRN"" : ""16037884225""
+  ""Tranzaksiya İD"" : ""16037884225""
+  ""Əməliyyatın məbləği"" : ""280""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""771604""
+  ""Terminal"" : ""A0182014""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944002829579100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,280 AZN,280 AZN,HƏSƏNOV ELÇİN NÜSRƏT OĞLU,05/Apr/25 11:18 PM,A0182014,,,,,,,,994705586888,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,994705586888
+DCR,BR-5468648,7019698,2nd line analysis,,Müştəri müraciəti: NOVRUZOV ƏLİ NİYAZ OĞLU: Şikayət,,AbdullayevFFa,QasimovaGR,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 8:27 PM,Cash out,"
+CIF: 3367822
+    
+{
+  ""Kart nömrəsi"" : ""523915******7452""
+  ""Əməliyyatın tarixi"" : ""2024-10-22T16:24:42""
+  ""RRN"" : ""13359426531""
+  ""Tranzaksiya İD"" : ""13359426531""
+  ""Əməliyyatın məbləği"" : ""5""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""141263""
+  ""Terminal"" : ""A0127043""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944011362628127""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,5 AZN,5 AZN,NOVRUZOV ƏLİ NİYAZ OĞLU,05/Apr/25 8:24 PM,A0127043,,,,,,,,0773982824,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0773982824
+DCR,BR-5468647,7019872,2nd line analysis,,Müştəri müraciəti: NOVRUZOV ƏLİ NİYAZ OĞLU: Şikayət,,AbbasovKAl,QasimovaGR,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 8:22 PM,Cash out,"
+CIF: 3367822
+    
+{
+  ""Kart nömrəsi"" : ""523915******7452""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T19:28:23""
+  ""RRN"" : ""16034364343""
+  ""Tranzaksiya İD"" : ""16034364343""
+  ""Əməliyyatın məbləği"" : ""7""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""094056""
+  ""Terminal"" : ""A0127043""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944011362628127""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,7 AZN,7 AZN,NOVRUZOV ƏLİ NİYAZ OĞLU,05/Apr/25 8:22 PM,A0127043,,,,,,,,0773982824,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0773982824
+DCR,BR-5468637,7019866,2nd line analysis,,Müştəri müraciəti: SƏLİMOV AYXAN BƏHRAM OĞLU: Şikayət,,TanriverdiyevaGN,AhmadliAAn,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 8:12 PM,Cash out,"
+CIF: 2788072
+    
+{
+  ""Kart nömrəsi"" : ""416973******2159""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T18:10:55""
+  ""RRN"" : ""16032903548""
+  ""Tranzaksiya İD"" : ""16032903548""
+  ""Əməliyyatın məbləği"" : ""340""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""311827""
+  ""Terminal"" : ""A0178042""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003330818100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,340 AZN,340 AZN,SƏLİMOV AYXAN BƏHRAM OĞLU,05/Apr/25 8:11 PM,A0178042,,,,,,,,516576587,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,516576587
+DCR,BR-5468610,7019771,2nd line analysis,,Müştəri müraciəti: SƏLİMOV AYXAN BƏHRAM OĞLU: Şikayət,,NabiyevMA,MammadovaRFu,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 7:42 PM,Cash out,"
+CIF: 2788072
+    
+{
+  ""Kart nömrəsi"" : ""416973******2159""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T18:10:55""
+  ""RRN"" : ""16032903548""
+  ""Tranzaksiya İD"" : ""16032903548""
+  ""Əməliyyatın məbləği"" : ""340""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""311827""
+  ""Terminal"" : ""A0178042""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003330818100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,340 AZN,340 AZN,SƏLİMOV AYXAN BƏHRAM OĞLU,05/Apr/25 7:40 PM,A0178042,,,,,,,,994516576587,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,994516576587
+DCR,BR-5468580,7019843,2nd line analysis,,Müştəri müraciəti: MƏMMƏDOV ELMAR ƏLİ OĞLU: Şikayət,,MemmedovaNS,PasayevaKH,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 7:07 PM,Cash out,"
+CIF: 3900766
+    
+{
+  ""Kart nömrəsi"" : ""416973******5254""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T17:13:33""
+  ""RRN"" : ""16031820602""
+  ""Tranzaksiya İD"" : ""16031820602""
+  ""Əməliyyatın məbləği"" : ""30""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""399237""
+  ""Terminal"" : ""BirBank5""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944006486546100""
+  ""Əməliyyat"" : ""POS P2P Debit""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,30 AZN,30 AZN,MƏMMƏDOV ELMAR ƏLİ OĞLU,05/Apr/25 7:03 PM,BirBank5,,,,,,,,+994502021000,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994502021000
+DCR,BR-5468577,7019761,2nd line analysis,,Müştəri müraciəti: RƏHİMLİ İZZƏT RUHƏDDİN OĞLU: Şikayət,,MammadzadaCF,QuliyevaSNa,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 7:02 PM,Cash out,"
+CIF: 4610941
+    
+{
+  ""Kart nömrəsi"" : ""416973******6722""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T17:39:01""
+  ""RRN"" : ""16032299342""
+  ""Tranzaksiya İD"" : ""16032299342""
+  ""Əməliyyatın məbləği"" : ""170""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""644091""
+  ""Terminal"" : ""A0151026""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944006591240100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,170 AZN,170 AZN AZN,RƏHİMLİ İZZƏT RUHƏDDİN OĞLU,05/Apr/25 7:00 PM,A0151026,,,,,,,,+994555460500,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994555460500
+DCR,BR-5468575,7019675,2nd line analysis,,Müştəri müraciəti: ABBASOV SÜBHAN TELMAN OĞLU: Şikayət,,MammadovaFZ,AbdullayevaGC,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 7:02 PM,Cash out,"
+CIF: 3833577
+    
+{
+  ""Kart nömrəsi"" : ""416973******9839""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T17:48:57""
+  ""RRN"" : ""16032483128""
+  ""Tranzaksiya İD"" : ""16032483128""
+  ""Əməliyyatın məbləği"" : ""24""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""210071""
+  ""Terminal"" : ""A0127037""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944006284833100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,24 AZN,24 AZN,ABBASOV SÜBHAN TELMAN OĞLU,05/Apr/25 6:57 PM,A0127037,,,,,,,,+994775104357,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994775104357
+DCR,BR-5468555,7019668,2nd line analysis,,Müştəri müraciəti: BAĞIŞOVA GİLAS MÜŞFİQ QIZI: Şikayət,,MalikovaSF,QuliyevaSNa,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 6:42 PM,Cash out,"
+CIF: 5060975
+    
+{
+  ""Kart nömrəsi"" : ""510307******0102""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T17:37:49""
+  ""RRN"" : ""16032277423""
+  ""Tranzaksiya İD"" : ""16032277423""
+  ""Əməliyyatın məbləği"" : ""240""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""838050""
+  ""Terminal"" : ""A0151032""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009507741162""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,240 ,240 AZN,BAĞIŞOVA GİLAS MÜŞFİQ QIZI,05/Apr/25 6:41 PM,A0151032,,,,,,,,+994517980246,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994517980246
+DCR,BR-5468496,7019737,2nd line analysis,,Müştəri müraciəti: MƏMMƏDOV MÖVLAN MUSA OĞLU: Şikayət,,BagirovaXG,MammadaliyevTE,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 5:52 PM,Cash out,"
+CIF: 8939938
+    
+{
+  ""Kart nömrəsi"" : ""416973******6034""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T17:42:19""
+  ""RRN"" : ""16032359859""
+  ""Tranzaksiya İD"" : ""16032359859""
+  ""Əməliyyatın məbləği"" : ""360""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""300151""
+  ""Terminal"" : ""A0138019""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005847839100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,360 AZN,360 AZN,MƏMMƏDOV MÖVLAN MUSA OĞLU,05/Apr/25 5:48 PM,A0138019,,,,,,,,+994506262663,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994506262663
+DCR,BR-5468478,7019644,2nd line analysis,,Müştəri müraciəti: QULİYEV ELNUR VAQİF OĞLU: Şikayət,,AlizadaSIl,MayilovaVM,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 5:37 PM,,"
+CIF: 2313535
+    
+{
+  ""Kart nömrəsi"" : ""523915******3720""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T11:10:20""
+  ""RRN"" : ""16025226775""
+  ""Tranzaksiya İD"" : ""16025226775""
+  ""Əməliyyatın məbləği"" : ""10""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""783808""
+  ""Terminal"" : ""A0100238""
+  ""Hesab nömrəsi"" : ""38810944011004842299""
+}
+",Call Center,,,QULİYEV ELNUR VAQİF OĞLU,05/Apr/25 5:36 PM,,,,,,,,,994552992121,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,994552992121
+DCR,BR-5468443,7019721,2nd line analysis,,Müştəri müraciəti: QULİYEV ƏFQAN ASLAN OĞLU: Şikayət,1.0,AbdullayevFFa,PapaxovPM,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 5:17 PM,Cash out,"
+CIF: 2852151
+    
+{
+  ""Kart nömrəsi"" : ""416973******1738""
+  ""Əməliyyatın tarixi"" : ""2025-03-29T05:10:06""
+  ""RRN"" : ""15902077999""
+  ""Tranzaksiya İD"" : ""15902079081""
+  ""Əməliyyatın məbləği"" : ""10""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""155461""
+  ""Terminal"" : ""A0100519""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944001700889100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Filial ,false,10 AZN AZN,QULİYEV ƏFQAN ASLAN OĞLU,05/Apr/25 5:15 PM,A0100519,,,,,,,,0554202904,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0554202904
+DCR,BR-5468439,7019579,2nd line analysis,,Müştəri müraciəti: GÖZƏLOV MƏRHƏMƏT KAZIM OĞLU: Şikayət,,AbbasovKAl,MammadaliyevTE,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 5:17 PM,Cash out,"
+CIF: 3277834
+    
+{
+  ""Kart nömrəsi"" : ""416973******6446""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T17:03:17""
+  ""RRN"" : ""16031631776""
+  ""Tranzaksiya İD"" : ""16031631776""
+  ""Əməliyyatın məbləği"" : ""10""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""596480""
+  ""Terminal"" : ""A0101016""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009890715133""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,10 AZN,10 AZN,GÖZƏLOV MƏRHƏMƏT KAZIM OĞLU,05/Apr/25 5:13 PM,A0101016,,,,,,,,+994702420136,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994702420136
+DCR,BR-5468374,7019700,2nd line analysis,,Müştəri müraciəti: HÜSEYNOVA TAMELLA TACƏDDİN QIZI: Şikayət,1.0,NabiyevMA,MammadliIU,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 4:37 PM,Cash out,"
+CIF: 2021177
+    
+{
+  ""Kart nömrəsi"" : ""416973******1378""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T14:39:44""
+  ""RRN"" : ""16028996348""
+  ""Tranzaksiya İD"" : ""16028996348""
+  ""Əməliyyatın məbləği"" : ""120""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""171034""
+  ""Terminal"" : ""A0151003""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944002892422100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,120 AZN,120 AZN,HÜSEYNOVA TAMELLA TACƏDDİN QIZI,05/Apr/25 4:33 PM,A0151003,,,,,,,,0775872565,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0775872565
+DCR,BR-5468354,7019295,2nd line analysis,,Müştəri müraciəti: AĞAYEVA SƏKİNƏ NÜSRƏT QIZI: Şikayət,,MammadovaFZ,CaltikovaNN,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 4:22 PM,Cash out,"
+CIF: 1579446
+    
+{
+  ""Kart nömrəsi"" : ""416974******6073""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T16:07:25""
+  ""RRN"" : ""16030605718""
+  ""Tranzaksiya İD"" : ""16030605718""
+  ""Əməliyyatın məbləği"" : ""1198""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""364003""
+  ""Terminal"" : ""A0100558""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944008785190299""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,1198 AZN,1198 AZN,AĞAYEVA SƏKİNƏ NÜSRƏT QIZI,05/Apr/25 4:20 PM,A0100558,,,,,,,,+994555296046,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994555296046
+DCR,BR-5468337,7019527,2nd line analysis,,Müştəri müraciəti: İBİŞOV ŞAHZADƏ NURBALA OĞLU: Şikayət,,HuseynovaNV,AbbasovaNF,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 4:12 PM,Cash out,"
+CIF: 4249319
+    
+{
+  ""Kart nömrəsi"" : ""523915******7831""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T15:34:56""
+  ""RRN"" : ""16030011326""
+  ""Tranzaksiya İD"" : ""16030011326""
+  ""Əməliyyatın məbləği"" : ""200""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""776735""
+  ""Terminal"" : ""A0138037""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005030165100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,200 AZN,200 AZN,İBİŞOV ŞAHZADƏ NURBALA OĞLU,05/Apr/25 4:11 PM,A0138037,,,,,,,,0516936977,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0516936977
+DCR,BR-5468299,7019497,2nd line analysis,,Müştəri müraciəti: SULTANOVA MƏLƏK ÇƏRKƏZ QIZI: Şikayət,,HaciyevaAN,VerdiyevYA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 3:47 PM,Cash out,"
+CIF: 2871658
+    
+{
+  ""Kart nömrəsi"" : ""416973******2485""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T16:50:16""
+  ""RRN"" : ""16012763652""
+  ""Tranzaksiya İD"" : ""16012763652""
+  ""Əməliyyatın məbləği"" : ""3""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""597296""
+  ""Terminal"" : ""A0100319""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009086698132""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,3 AZN,3 AZN,SULTANOVA MƏLƏK ÇƏRKƏZ QIZI,05/Apr/25 3:47 PM,A0100319,,,,,,,,+994554026545,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994554026545
+DCR,BR-5468241,7019478,2nd line analysis,,Müştəri müraciəti: ƏZİMOV İLQAR YUSİF OĞLU: Şikayət,,AbdullayevSM,MikayilovaNA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 3:22 PM,Cash in,"
+CIF: 0399824
+CMS ID: 3911626
+FIN: 19DU9GW
+Seria nömrəsi: AA3803073 
+Hesab: 38820978000042292104
+Salam,  İnşaatçılar prospekti Araz marketin qarşısında Statistika Komitəsinin qarşısında bankomatdan kartına 30 eur mədaxil edib, lakin  kartıma isə pul oturmayib
+QEYD edir ki, qəbz yoxdur.",Web-site,30,30 EUR,ƏZİMOV İLQAR YUSİF OĞLU,05/Apr/25 3:20 PM,Terminal A0100117,,,,,,,,0552077393,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0552077393
+DCR,BR-5468204,7019465,2nd line analysis,,Müştəri müraciəti: NƏCƏFOVA NƏZAKƏT KƏRƏM QIZI: Şikayət,,TanriverdiyevaGN,ZeynalabdinovaNB,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 4:51 PM,,"30 dəq keçib vəsait revers olmayıb
+CIF: 2924087
+    
+{
+  ""Kart nömrəsi"" : ""416973******9539""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T14:12:00""
+  ""RRN"" : ""TGDR300056065""
+  ""Tranzaksiya İD"" : ""16028475937""
+  ""Əməliyyatın məbləği"" : ""100""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""522117""
+  ""Terminal"" : ""BirBankATMQR""
+  ""Hesab nömrəsi"" : ""38817944001551075100""
+}
+",Call Center,,,NƏCƏFOVA NƏZAKƏT KƏRƏM QIZI,05/Apr/25 2:58 PM,,,,,,,,,994773256466,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,994773256466
+DCR,BR-5468074,7019314,2nd line analysis,,Müştəri müraciəti: ALIYEV ƏLÖVSƏT İMAMVERDİ OĞLU: Şikayət,,AxundovaAE,AliyevaMM,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 1:57 PM,Cash out,"
+CIF: 4508886
+    
+{
+  ""Kart nömrəsi"" : ""523915******6150""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T13:44:08""
+  ""RRN"" : ""16027950418""
+  ""Tranzaksiya İD"" : ""16027950418""
+  ""Əməliyyatın məbləği"" : ""5""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""537074""
+  ""Terminal"" : ""A0140068""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944004881837100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,5 AZN,5 AZN,ALIYEV ƏLÖVSƏT İMAMVERDİ OĞLU,05/Apr/25 1:54 PM,A0140068,,,,,,,,+994513133405,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994513133405
+DCR,BR-5467932,7019150,2nd line analysis,,Müştəri müraciəti: ƏLİYEV ELŞAD RƏFİ OĞLU: Şikayət,0.0,MalikovaSF,AslanliTS,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 1:02 PM,Cash out,"
+CIF: 0114625
+    
+{
+  ""Kart nömrəsi"" : ""416973******0554""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T12:54:49""
+  ""RRN"" : ""16027030632""
+  ""Tranzaksiya İD"" : ""16027030632""
+  ""Əməliyyatın məbləği"" : ""4""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""366943""
+  ""Terminal"" : ""A0180002""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944002572365100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,4 AZN,4 AZN,ƏLİYEV ELŞAD RƏFİ OĞLU,05/Apr/25 12:59 PM,A0180002,,,,,,,,0507888949,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0507888949
+DCR,BR-5467931,7018999,2nd line analysis,,Müştəri müraciəti: MƏNƏFOV BALAY YAQUB OĞLU: Şikayət,0.0,KerimovFA,AhmadovaLR,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 1:02 PM,Cash out,"
+CIF: 1798974
+    
+{
+  ""Kart nömrəsi"" : ""523915******3005""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T18:08:49""
+  ""RRN"" : ""16014414333""
+  ""Tranzaksiya İD"" : ""16014414333""
+  ""Əməliyyatın məbləği"" : ""10""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""039585""
+  ""Terminal"" : ""A0100392""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003806391100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,10 AZN,10 AZN,MƏNƏFOV BALAY YAQUB OĞLU,05/Apr/25 12:59 PM,A0100392,,,,,,,,0554205563,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0554205563
+DCR,BR-5467818,7019014,2nd line analysis,,Müştəri müraciəti: ABDULRƏHMANOV ƏMİR SÜLEYMAN OĞLU: Şikayət,1.0,AbbasovaDA,QurbanovaNA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 12:12 PM,Cash out,"
+CIF: 1811681
+    
+{
+  ""Kart nömrəsi"" : ""523915******5753""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T12:02:20""
+  ""RRN"" : ""16026098867""
+  ""Tranzaksiya İD"" : ""16026098867""
+  ""Əməliyyatın məbləği"" : ""165""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""533373""
+  ""Terminal"" : ""A0151019""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944004846981100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,165 AZN,165 AZN,ABDULRƏHMANOV ƏMİR SÜLEYMAN OĞLU,05/Apr/25 12:09 PM,A0151019,,,,,,,,+994513959001,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994513959001
+DCR,BR-5467801,7019011,2nd line analysis,,Müştəri müraciəti: HƏMİDOVA SƏBİNƏ NAZİMOVNA: Şikayət,,ShiraliyevaAV,CabbarliAD,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 11:24 AM,Cash out,"
+CIF: 2228216
+    
+{
+  ""Kart nömrəsi"" : ""510307******1976""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T11:30:16""
+  ""RRN"" : ""16025556119""
+  ""Tranzaksiya İD"" : ""16025556119""
+  ""Əməliyyatın məbləği"" : ""500""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""942076""
+  ""Terminal"" : ""A0100124""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944010314099110""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,500 AZN,500 AZN,HƏMİDOVA SƏBİNƏ NAZİMOVNA,05/Apr/25 12:01 PM,A0100124,,,,,,,,0703507778,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0703507778
+DCR,BR-5467706,7018782,2nd line analysis,,Müştəri müraciəti: ALXASOV NİZAMİ ALXAS OĞLU: Şikayət,,MammadovaFZ,BabasoyGAl,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 11:22 AM,Cash out,"
+CIF: 
+    
+{
+  ""Kart nömrəsi"" : ""510307******6034""
+  ""Əməliyyatın tarixi"" : ""2025-03-22T18:05:36""
+  ""RRN"" : ""15810250453""
+  ""Tranzaksiya İD"" : ""15810250453""
+  ""Əməliyyatın məbləği"" : ""150""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""183061""
+  ""Terminal"" : ""A0100179""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944011306932123""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,150 AZN,50 AZN,ALXASOV NİZAMİ ALXAS OĞLU,05/Apr/25 11:21 AM,A0100179,,,,,,,,0707471418,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0707471418
+DCR,BR-5467689,7018921,2nd line analysis,,Müştəri müraciəti: SİRACOV ORXAN SAMƏDDİN OĞLU: Şikayət,,MalikovaSF,MahmudovaNR,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 11:17 AM,Cash out,"
+CIF: 1810546
+    
+{
+  ""Kart nömrəsi"" : ""416973******8354""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T21:24:25""
+  ""RRN"" : ""16018753828""
+  ""Tranzaksiya İD"" : ""16018753828""
+  ""Əməliyyatın məbləği"" : ""20""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""353087""
+  ""Terminal"" : ""A0166032""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003906376100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,20 AZN,20 AZN,SİRACOV ORXAN SAMƏDDİN OĞLU,05/Apr/25 11:15 AM,A0166032,,,,,,,,0709941719,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0709941719
+DCR,BR-5467671,7018915,2nd line analysis,,Müştəri müraciəti: ORUCOV ASİF ƏLİHEYDƏR OĞLU: Şikayət,,KerimovFA,CabbarliAD,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 11:12 AM,Cash out,"
+CIF: 1162453
+    
+{
+  ""Kart nömrəsi"" : ""523915******4280""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T10:55:45""
+  ""RRN"" : ""16024996912""
+  ""Tranzaksiya İD"" : ""16024996912""
+  ""Əməliyyatın məbləği"" : ""50""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""908061""
+  ""Terminal"" : ""A0141039""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003774333100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,50 AZN,50 AZN,ORUCOV ASİF ƏLİHEYDƏR OĞLU,05/Apr/25 11:09 AM,A0141039,,,,,,,,0506788680,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0506788680
+DCR,BR-5467626,7018900,2nd line analysis,,Müştəri müraciəti: MƏMMƏDOVA DÜRDANƏ HÜSEYN QIZI: Şikayət,,AxundovaAE,MehtiyevaLT,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 10:52 AM,Cash out,"
+CIF: 9921584
+    
+{
+  ""Kart nömrəsi"" : ""523915******9406""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T09:35:35""
+  ""RRN"" : ""16023920005""
+  ""Tranzaksiya İD"" : ""16023920005""
+  ""Əməliyyatın məbləği"" : ""300""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""006210""
+  ""Terminal"" : ""A0100110""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944011825728115""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,300 AZN,300 azn AZN,MƏMMƏDOVA DÜRDANƏ HÜSEYN QIZI,05/Apr/25 10:48 AM,A0100110,,,,,,,,994517923227,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,994517923227
+DCR,BR-5467584,7018687,2nd line analysis,,Müştəri müraciəti: İBRAHİMXƏLİLOV CƏSARƏT NUH OĞLU: Şikayət,,AbdullayevSM,CarciyevaNX,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 10:32 AM,Cash out,"
+CIF: 3778456
+    
+{
+  ""Kart nömrəsi"" : ""416974******6906""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T09:59:14""
+  ""RRN"" : ""16024201490""
+  ""Tranzaksiya İD"" : ""16024201490""
+  ""Əməliyyatın məbləği"" : ""168""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""749230""
+  ""Terminal"" : ""A0100224""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009108345111""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,168 AZN,168 AZN,İBRAHİMXƏLİLOV CƏSARƏT NUH OĞLU,05/Apr/25 10:29 AM,A0100224,,,,,,,,0707617061,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0707617061
+DCR,BR-5467580,7018739,2nd line analysis,,Müştəri müraciəti: KOSAYEVA NƏRGİZ BARİS QIZI: Şikayət,,AbbasovKAl,AliyevaAP,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 10:32 AM,Cash out,"
+CIF: 1838136
+    
+{
+  ""Kart nömrəsi"" : ""523915******2158""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T10:08:19""
+  ""RRN"" : ""16024319250""
+  ""Tranzaksiya İD"" : ""16024319250""
+  ""Əməliyyatın məbləği"" : ""10""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""178847""
+  ""Terminal"" : ""A0100561""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944011168671136""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Web-site,10 AZN,10 AZN,KOSAYEVA NƏRGİZ BARİS QIZI,05/Apr/25 10:27 AM,A0100561,,,,,,,,0705091002,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0705091002
+DCR,BR-5467572,7018737,2nd line analysis,,Müştəri müraciəti: RZAYEVA VƏFA HÜSEYNXAN QIZI: Şikayət,,AbbasovaDA,RamazanovaXQ,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 10:27 AM,Cash out,"
+CIF: 0294784
+    
+{
+  ""Kart nömrəsi"" : ""416973******0772""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T21:28:56""
+  ""RRN"" : ""16018842794""
+  ""Tranzaksiya İD"" : ""16018842794""
+  ""Əməliyyatın məbləği"" : ""20""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""303968""
+  ""Terminal"" : ""A0100065""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944010203594107""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,20 AZN,20 AZN  AZN,RZAYEVA VƏFA HÜSEYNXAN QIZI,05/Apr/25 10:24 AM,A0100065,,,,,,,,+994505782395,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994505782395
+DCR,BR-5467521,7018667,2nd line analysis,,Müştəri müraciəti: MURTUZOVA ESMİRA MURTUZƏLİ QIZI: Şikayət,1.0,KerimovFA,HacizadaAA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 10:07 AM,Cash out,"
+CIF: 3295486
+    
+{
+  ""Kart nömrəsi"" : ""416973******4813""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T09:52:20""
+  ""RRN"" : ""16024115879""
+  ""Tranzaksiya İD"" : ""16024115879""
+  ""Əməliyyatın məbləği"" : ""10""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""379432""
+  ""Terminal"" : ""A0100105""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009978933299""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,10 AZN,10 AZN,MURTUZOVA ESMİRA MURTUZƏLİ QIZI,05/Apr/25 10:03 AM,A0100105,,,,,,,,+994508785054,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994508785054
+DCR,BR-5467475,7018577,2nd line analysis,,Müştəri müraciəti: BAYRAMOV SULEYMAN MISIRXAN: Şikayət,,AlasgarliAF,CavadzadaXC,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 9:37 AM,Cash out,"
+CIF: 
+    
+{
+  ""Kart nömrəsi"" : ""416974******5023""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T09:28:43""
+  ""RRN"" : ""16023844338""
+  ""Tranzaksiya İD"" : ""16023844338""
+  ""Əməliyyatın məbləği"" : ""30""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""197095""
+  ""Terminal"" : ""A0100069""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944000047328126""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,30 AZN,30 AZN,BAYRAMOV SULEYMAN MISIRXAN,05/Apr/25 9:33 AM,A0100069,,,,,,,,0709600676,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0709600676
+DCR,BR-5467414,7018548,2nd line analysis,,Müştəri müraciəti: HÜSEYNOV LƏTİF TAHİR OĞLU: Şikayət,,MalikovaSF,ElogluFAz,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 4:42 AM,Cash out,"
+CIF: 2431282
+    
+{
+  ""Kart nömrəsi"" : ""523915******7307""
+  ""Əməliyyatın tarixi"" : ""2025-04-05T04:34:21""
+  ""RRN"" : ""16022630398""
+  ""Tranzaksiya İD"" : ""16022630398""
+  ""Əməliyyatın məbləği"" : ""15""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""478333""
+  ""Terminal"" : ""A0100441""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005558834100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,15 AZN,15 AZN,HÜSEYNOV LƏTİF TAHİR OĞLU,05/Apr/25 4:41 AM,A0100441,,,,,,,,0773011314,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0773011314
+DCR,BR-5467353,7018536,2nd line analysis,,Müştəri müraciəti: HƏSƏNOV ETİBAR İBRAHİM OĞLU: Şikayət,,KerimovFA,AliyevaAP,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 12:32 AM,Cash out,"CIF: 2753545
+
+{
+""Kart nömrəsi"" : ""4330""
+""Əməliyyatın tarixi"" : ""2025-03-18T16:53:20""
+""RRN"" : ""15739809196""
+""Tranzaksiya İD"" : ""15739809196""
+""Əməliyyatın məbləği"" : ""79""
+""Əməliyyatın valyutası"" : ""AZN""
+""Təsdiq kodu"" : ""838003""
+""Terminal"" : ""A0101040""
+""Komissiya"" : ""0""
+""Hesab nömrəsi"" : ""38810944012980058101""
+""Əməliyyat"" : ""Withdrawal""
+""Nəticə"" : ""OK""
+""Error"" : ""no""
+}",Web-site,79 AZN,79 AZN,HƏSƏNOV ETİBAR İBRAHİM OĞLU,05/Apr/25 12:29 AM,A0101040,,,,,,,,602502130,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,602502130
+DCR,BR-5467344,7018430,2nd line analysis,,Müştəri müraciəti: RZAYEVA MƏLAHƏT KAMİL QIZI: Şikayət,,HuseynovaNV,QuliyevaSNa,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 12:22 AM,Cash out,"
+CIF: 9192399
+    
+{
+  ""Kart nömrəsi"" : ""416974******9139""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T23:50:44""
+  ""RRN"" : ""16021205089""
+  ""Tranzaksiya İD"" : ""16021205089""
+  ""Əməliyyatın məbləği"" : ""530""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""077007""
+  ""Terminal"" : ""A0100185""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944008698388111""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,530 ,530  AZN,RZAYEVA MƏLAHƏT KAMİL QIZI,05/Apr/25 12:19 AM,A0100185,,,,,,,,+994552656164,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994552656164
+DCR,BR-5467260,7018400,2nd line analysis,,Müştəri müraciəti: SƏRKƏROVA RƏNA ŞAMI QIZI: Şikayət,,AlizadaSIl,RahimliIKa,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 10:27 PM,Cash out,"
+CIF: 1603181
+    
+{
+  ""Kart nömrəsi"" : ""416973******4687""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T21:42:02""
+  ""RRN"" : ""16019091445""
+  ""Tranzaksiya İD"" : ""16019091445""
+  ""Əməliyyatın məbləği"" : ""700""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""079389""
+  ""Terminal"" : ""A0100056""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003413383100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,700 AZN,700 AZN,SƏRKƏROVA RƏNA ŞAMI QIZI,04/Apr/25 10:23 PM,A0100056,,,,,,,,0554016424,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0554016424
+DCR,BR-5467253,7018199,2nd line analysis,,Müştəri müraciəti: MƏLİKOV MAHİR MƏTLƏB OĞLU: Şikayət,,AlizadaER,MusayevaNN,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 10:17 PM,Cash in,"
+CIF: 1463127
+CMS ID: 9192602
+FIN: 5ZHZ80Q
+Seria nömrəsi: AA1587749 
+Hesab: 38810944009338182116
+Salam,müştəri exchange əməliyyatı icra edirdi ancaq vəsaiti əldə edə bilməyib.Zəhmət olmasa dəstək olardınız.",Call Center,100 USD,169 AZN USD,MƏLİKOV MAHİR MƏTLƏB OĞLU,04/Apr/25 10:15 PM,A0100144,,,,,,,,+994556390323,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994556390323
+DCR,BR-5467206,7018363,2nd line analysis,,Müştəri müraciəti: HÜSEYNOV KAMRAN MİRDAMƏD OĞLU: Şikayət,,AbdullayevFFa,AgayarovaSA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 9:32 PM,Cash out,"
+CIF: 4303703
+    
+{
+  ""Kart nömrəsi"" : ""523915******8556""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T16:26:30""
+  ""RRN"" : ""15993515785""
+  ""Tranzaksiya İD"" : ""15993515785""
+  ""Əməliyyatın məbləği"" : ""1000""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""303014""
+  ""Terminal"" : ""A0151020""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944006235713100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,1000 AZN,50 AZN,HÜSEYNOV KAMRAN MİRDAMƏD OĞLU,04/Apr/25 9:29 PM,A0151020,,,,,,,,0502666624,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0502666624
+DCR,BR-5467204,7018190,2nd line analysis,,Müştəri müraciəti: HÜSEYNOV KAMRAN MİRDAMƏD OĞLU: Şikayət,,AbbasovKAl,AgayarovaSA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 9:32 PM,Cash out,"
+CIF: 4303703
+    
+{
+  ""Kart nömrəsi"" : ""523915******8556""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T16:24:35""
+  ""RRN"" : ""15993474228""
+  ""Tranzaksiya İD"" : ""15993474228""
+  ""Əməliyyatın məbləği"" : ""2000""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""025012""
+  ""Terminal"" : ""A0151020""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944006235713100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Web-site,2000 AZN,50 AZN,HÜSEYNOV KAMRAN MİRDAMƏD OĞLU,04/Apr/25 9:29 PM,A0151020,,,,,,,,0502666624,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0502666624
+DCR,BR-5467203,7018189,2nd line analysis,,Müştəri müraciəti: HÜSEYNOV KAMRAN MİRDAMƏD OĞLU: Şikayət,,AbbasovaDA,AgayarovaSA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 9:32 PM,Cash out,"
+CIF: 4303703
+    
+{
+  ""Kart nömrəsi"" : ""523915******8556""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T16:23:41""
+  ""RRN"" : ""15993451597""
+  ""Tranzaksiya İD"" : ""15993451597""
+  ""Əməliyyatın məbləği"" : ""2000""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""008010""
+  ""Terminal"" : ""A0151020""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944006235713100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Web-site,2000 AZN,50 AZN,HÜSEYNOV KAMRAN MİRDAMƏD OĞLU,04/Apr/25 9:28 PM,A0151020,,,,,,,,0502666624,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0502666624
+DCR,BR-5467191,7018358,2nd line analysis,,Müştəri müraciəti: HÜSEYNOV CEYHUN İBRAHİM OĞLU: Şikayət,0.0,TanriverdiyevaGN,AhmadovaLR,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 9:27 PM,Cash out,"
+CIF: 2119855
+    
+{
+  ""Kart nömrəsi"" : ""416973******0120""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T21:01:23""
+  ""RRN"" : ""16018155671""
+  ""Tranzaksiya İD"" : ""16018155671""
+  ""Əməliyyatın məbləği"" : ""265""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""991436""
+  ""Terminal"" : ""A0140068""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009951297160""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,265 AZN,265 AZN,HÜSEYNOV CEYHUN İBRAHİM OĞLU,04/Apr/25 9:24 PM,A0140068,,,,,,,,0505779942,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0505779942
+DCR,BR-5467172,7018184,2nd line analysis,,Müştəri müraciəti: HÜSEYNOV CEYHUN İBRAHİM OĞLU: Şikayət,,SamadovaAM,ISMAYILOVAAB,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 9:12 PM,Cash out,"
+CIF: 2119855
+    
+{
+  ""Kart nömrəsi"" : ""416973******0120""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T21:01:23""
+  ""RRN"" : ""16018155671""
+  ""Tranzaksiya İD"" : ""16018155671""
+  ""Əməliyyatın məbləği"" : ""265""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""991436""
+  ""Terminal"" : ""A0140068""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009951297160""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,265 AZN,265 AZN,HÜSEYNOV CEYHUN İBRAHİM OĞLU,04/Apr/25 9:12 PM,A0140068,,,,,,,,0505779942,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0505779942
+DCR,BR-5467115,7018246,2nd line analysis,,Müştəri müraciəti: ƏLİYEV ELŞƏN YOLÇU OĞLU: Şikayət,,MammadovaFZ,AgayevMEl,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 8:42 PM,Cash out,"
+CIF: 3749971
+    
+{
+  ""Kart nömrəsi"" : ""416973******0961""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T20:07:55""
+  ""RRN"" : ""16017016315""
+  ""Tranzaksiya İD"" : ""16017016315""
+  ""Əməliyyatın məbləği"" : ""14""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""567295""
+  ""Terminal"" : ""A0182014""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003131935100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,14 AZN,14 AZN,ƏLİYEV ELŞƏN YOLÇU OĞLU,04/Apr/25 8:40 PM,A0182014,,,,,,,,994554222137,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,994554222137
+DCR,BR-5467083,7018156,2nd line analysis,,Müştəri müraciəti: HÜSEYNOVA TÜRKAN HƏSƏN QIZI: Şikayət,,KerimovFA,PasayevaKH,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 8:22 PM,Cash out,"
+CIF: 2449990
+    
+{
+  ""Kart nömrəsi"" : ""523915******3295""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T16:22:08""
+  ""RRN"" : ""15993419207""
+  ""Tranzaksiya İD"" : ""15993419207""
+  ""Əməliyyatın məbləği"" : ""1000""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""896028""
+  ""Terminal"" : ""A0151020""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005970973100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+,{
+  ""Kart nömrəsi"" : ""523915******3295""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T16:20:22""
+  ""RRN"" : ""15993384268""
+  ""Tranzaksiya İD"" : ""15993384268""
+  ""Əməliyyatın məbləği"" : ""2000""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""894024""
+  ""Terminal"" : ""A0151020""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005970973100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+,{
+  ""Kart nömrəsi"" : ""523915******3295""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T16:21:19""
+  ""RRN"" : ""15993402777""
+  ""Tranzaksiya İD"" : ""15993402777""
+  ""Əməliyyatın məbləği"" : ""2000""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""707026""
+  ""Terminal"" : ""A0151020""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005970973100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,1000 AZN,50 AZN,HÜSEYNOVA TÜRKAN HƏSƏN QIZI,04/Apr/25 8:22 PM,A0151020,,,,,,,,+994518321010,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994518321010
+DCR,BR-5466988,7017994,2nd line analysis,,Müştəri müraciəti: ABBASOV BƏHRUZ NƏZİR OĞLU: Şikayət,,BagirovaXG,HuseynovaBE,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 7:22 PM,Exchance,"
+CIF: 1182330
+CMS ID: 8147112
+FIN: 698WVKC
+Seria nömrəsi: AA1776965 
+Hesab: 38810944012593584139
+Salam. Müştəri BR-5414405 sorğusuna əsasən iddia edir ki məbləğ kart hesabına köçürülməyib. Yenidən yoxlanılmasını bildirir. z.o dəstək olun",Call Center,700,700 USD,ABBASOV BƏHRUZ NƏZİR OĞLU,04/Apr/25 7:20 PM,A0170016 ,,,,,,,,0552548920,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0552548920
+DCR,BR-5466942,7017893,2nd line analysis,,Müştəri müraciəti: BABAYEV SAMİR SALMAN OĞLU: Şikayət,,AlasgarliAF,AslanovaNF,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 7:02 PM,Cash out,"
+CIF: 2671391
+    
+{
+  ""Kart nömrəsi"" : ""416973******6792""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T18:50:18""
+  ""RRN"" : ""16015313600""
+  ""Tranzaksiya İD"" : ""16015313600""
+  ""Əməliyyatın məbləği"" : ""999""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""720188""
+  ""Terminal"" : ""A0101023""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944012784007299""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,999 AZN,999 AZN,BABAYEV SAMİR SALMAN OĞLU,04/Apr/25 7:00 PM,A0101023,,,,,,,,0505352553,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0505352553
+DCR,BR-5466797,7017928,2nd line analysis,,Müştəri müraciəti: MƏMMƏDOVA GÜLDƏNƏ AĞAVERDİ QIZI: Şikayət,,AbbasovaDA,MammadovaASu,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,06/Apr/25 10:07 PM,,"Salam,
+İnşaatçılar filialının təklif təşəkkür və şikayət qutusuna daxil olan müraciət blankını sizə təqdim edirəm.
+Öncədən təşəkkürlər.
+ATM nömrəsi:
+CMS ID: 14195308
+FIN: 1W5BFMC
+Seria nömrəsi: AZE15162641 
+Hesab: 38817944002097029100
+:
+",Filial ,,,MƏMMƏDOVA GÜLDƏNƏ AĞAVERDİ QIZI,04/Apr/25 6:06 PM,,,,,,,,,0502774026,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0502774026
+DCR,BR-5466791,7017924,2nd line analysis,,Müştəri müraciəti: Hüseynov İlham Müslüm oğlu: Şikayət,,TanriverdiyevaGN,CavadliGM,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 6:07 PM,Exchance,Salam müsteri A0100158  50 eur medaxil edib azn deyismek ücün.Ancaq vesait geri qaytarılmayıb.Z/o destek olun arsdrılmasında ,Call Center,,,Hüseynov İlham Müslüm oğlu,04/Apr/25 6:05 PM,A0100158,,,,,,,,0557755002,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0557755002
+DCR,BR-5466769,7017911,2nd line analysis,,Müştəri müraciəti: İBRAHİMOVA ŞƏBNƏM ƏZİZ QIZI: Şikayət,1.0,ShiraliyevaAV,CavadliGM,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 6:02 PM,Cash out,"
+CIF: 1011482
+    
+{
+  ""Kart nömrəsi"" : ""416973******8918""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T17:32:15""
+  ""RRN"" : ""16013636167""
+  ""Tranzaksiya İD"" : ""16013636167""
+  ""Əməliyyatın məbləği"" : ""694""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""407166""
+  ""Terminal"" : ""A0100040""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944012804677110""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,694 AZN,694 AZN,İBRAHİMOVA ŞƏBNƏM ƏZİZ QIZI,04/Apr/25 6:00 PM,A0100040,,,,,,,,0555185989,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0555185989
+DCR,BR-5466756,7017829,2nd line analysis,,Müştəri müraciəti: GÖZƏLOVA XANIM ƏSKƏR QIZI: Şikayət,0.0,SamadovaAM,MirzayevaAQ,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 6:02 PM,Cash out,"
+CIF: 1713007
+    
+{
+  ""Kart nömrəsi"" : ""416973******4527""
+  ""Əməliyyatın tarixi"" : ""2025-04-01T19:15:37""
+  ""RRN"" : ""15960228119""
+  ""Tranzaksiya İD"" : ""15960228119""
+  ""Əməliyyatın məbləği"" : ""20""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""900712""
+  ""Terminal"" : ""A0151040""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944002740800100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,20 AZN,20 AZN,GÖZƏLOVA XANIM ƏSKƏR QIZI,04/Apr/25 5:57 PM,A0151040,,,,,,,,0513751656,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0513751656
+DCR,BR-5466673,7017800,2nd line analysis,,Müştəri müraciəti: İBRAHİMOVA ŞƏBNƏM ƏZİZ QIZI: Şikayət,,MammadzadaCF,SultanliBM,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 5:47 PM,Cash in,"
+CIF: 1011482
+CMS ID: 5414540
+FIN: 4JWFR6Y
+Seria nömrəsi: AA6412273 
+Hesab: 38810944012804677110
+
+CIF: 1011482
+    
+{
+  ""Kart nömrəsi"" : ""416973******8918""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T17:32:15""
+  ""RRN"" : ""16013636167""
+  ""Tranzaksiya İD"" : ""16013636167""
+  ""Əməliyyatın məbləği"" : ""694""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""407166""
+  ""Terminal"" : ""A0100040""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944012804677110""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,694,694 AZN,İBRAHİMOVA ŞƏBNƏM ƏZİZ QIZI,04/Apr/25 5:45 PM,A0100040,,,,,,,,+994555185989,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994555185989
+DCR,BR-5466619,7017576,2nd line analysis,,Müştəri müraciəti: ORUCOV TELMAN İLYAS OĞLU: Şikayət,,HuseynovaNV,QocayevKR,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 5:37 PM,Cash out,"
+CIF: 9958021
+    
+{
+  ""Kart nömrəsi"" : ""416974******5705""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T17:31:06""
+  ""RRN"" : ""16013612495""
+  ""Tranzaksiya İD"" : ""16013612495""
+  ""Əməliyyatın məbləği"" : ""100""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""131352""
+  ""Terminal"" : ""A0127014""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944001385076106""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,100 AZN,100 AZN,ORUCOV TELMAN İLYAS OĞLU,04/Apr/25 5:37 PM,A0127014,,,,,,,,0505842615,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0505842615
+DCR,BR-5466546,7017720,2nd line analysis,,Müştəri müraciəti: MUSTAFAYEV RASİM ƏSGƏRXAN OĞLU: Şikayət,,AlizadaSIl,ZaliyevaAM,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 5:32 PM,Cash out,"
+CIF: 4199087
+    
+{
+  ""Kart nömrəsi"" : ""523915******0291""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T17:16:03""
+  ""RRN"" : ""16013295432""
+  ""Tranzaksiya İD"" : ""16013295432""
+  ""Əməliyyatın məbləği"" : ""65""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""542410""
+  ""Terminal"" : ""A0180068""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944004021889100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,65 AZN,65 AZN,MUSTAFAYEV RASİM ƏSGƏRXAN OĞLU,04/Apr/25 5:29 PM,A0180068,,,,,,,,0502256048,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0502256048
+DCR,BR-5466451,7017476,2nd line analysis,,Müştəri müraciəti: ZEYNALOVA GÜLNARƏ SURXAY QIZI: Şikayət,,AbbasovKAl,crmcc,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 5:17 PM,,"
+CIF: 8849262
+CMS ID: 7145595
+FIN: 5PVXMBV
+Seria nömrəsi: AA6640251 
+salam müştəri cash in zaman 100 USD qalıb z.o dəstək olasınız
+vəsaitin kartına köçürülməsini istəyir z.o nəzərə alasınız hesab 38817944002726396100",Call Center,,,ZEYNALOVA GÜLNARƏ SURXAY QIZI,04/Apr/25 5:17 PM,A0100004,,,,,,,,994997290807,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,994997290807
+DCR,BR-5466229,7017223,2nd line analysis,,Müştəri müraciəti: ƏHMƏDOV SAMİR SAHİB OĞLU: Şikayət,,MammadzadaCF,HuseynovaSM,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 4:57 PM,Cash out,"
+CIF: 1857447
+    
+{
+  ""Kart nömrəsi"" : ""416973******9319""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T16:45:55""
+  ""RRN"" : ""16012675776""
+  ""Tranzaksiya İD"" : ""16012675776""
+  ""Əməliyyatın məbləği"" : ""170""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""662293""
+  ""Terminal"" : ""A0100530""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009449540299""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,170 AZN,170 AZN,ƏHMƏDOV SAMİR SAHİB OĞLU,04/Apr/25 4:53 PM,A0100530,,,,,,,,559317877,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,559317877
+DCR,BR-5466210,7017214,2nd line analysis,,Müştəri müraciəti: MƏMMƏDYAROVA XAVƏR ARANXAN QIZI: Şikayət,1.0,MammadovaFZ,QurbanovaNA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 4:52 PM,Cash out,"
+CIF: 4190146
+    
+{
+  ""Kart nömrəsi"" : ""416973******9765""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T16:33:04""
+  ""RRN"" : ""16012415248""
+  ""Tranzaksiya İD"" : ""16012415248""
+  ""Əməliyyatın məbləği"" : ""25""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""387089""
+  ""Terminal"" : ""A0166036""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005823753100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,25 AZN,25 AZN,MƏMMƏDYAROVA XAVƏR ARANXAN QIZI,04/Apr/25 4:50 PM,A0166036,,,,,,,,+994776055595,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994776055595
+DCR,BR-5466207,7017213,2nd line analysis,,Müştəri müraciəti: İMAMƏLİYEV İLHAM DÜNYAMALI OĞLU: Şikayət,,MalikovaSF,crmcc,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 4:52 PM,,"Salam. Müştəri  qeyd edilən karta 981 azn 04.04.25 tarixində saat təqribən 13:35-də A0100077 atmdə mədaxil edib. Vəsait karta köçməyib. Çek yoxdur. Vəsiqə göndəriləcək. 
+CIF: 5139486
+CMS ID: 18466958
+FIN: 4YUDCKF
+Seria nömrəsi: AA6447891 
+Hesab: 38817944005765412100
+",Call Center,,,İMAMƏLİYEV İLHAM DÜNYAMALI OĞLU,04/Apr/25 4:50 PM,A0100077,,,,,,,,0506033031,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0506033031
+DCR,BR-5465986,7016797,2nd line analysis,,Müştəri müraciəti: YUSİFZADƏ MÜZƏFFƏR GÜNDÜZ OĞLU: Şikayət,,AbdullayevSM,MammadliLA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 4:27 PM,Cash out,"
+CIF: 1399747
+    
+{
+  ""Kart nömrəsi"" : ""416973******0570""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T16:12:33""
+  ""RRN"" : ""16012007247""
+  ""Tranzaksiya İD"" : ""16012007247""
+  ""Əməliyyatın məbləği"" : ""30""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""661064""
+  ""Terminal"" : ""A0127005""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944006345834100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,30 AZN,30 AZN,YUSİFZADƏ MÜZƏFFƏR GÜNDÜZ OĞLU,04/Apr/25 4:25 PM,A0127005,,,,,,,,0702926232,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0702926232
+DCR,BR-5465931,7016882,2nd line analysis,,Müştəri müraciəti: EYYUBOVA GÜLNARƏ MURAD QIZI: Şikayət,1.0,AbbasovaDA,ManafliNE,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 4:22 PM,Cash out,"
+CIF: 1248148
+    
+{
+  ""Kart nömrəsi"" : ""523915******6308""
+  ""Əməliyyatın tarixi"" : ""2025-04-02T10:34:36""
+  ""RRN"" : ""15969037892""
+  ""Tranzaksiya İD"" : ""15969037892""
+  ""Əməliyyatın məbləği"" : ""50""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""960195""
+  ""Terminal"" : ""A0180059""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005578449100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Filial ,false,50 AZN,EYYUBOVA GÜLNARƏ MURAD QIZI,04/Apr/25 4:17 PM,A0180059,,,,,,,,0773047616,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0773047616
+DCR,BR-5465835,7016748,2nd line analysis,,Müştəri müraciəti: İSMAYILOV TƏBRİZ HİDAYƏT OĞLU: Şikayət,,ShiraliyevaAV,RamazanovaXQ,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 4:07 PM,Cash out,"
+CIF: 1793835
+    
+{
+  ""Kart nömrəsi"" : ""523915******0465""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T15:08:30""
+  ""RRN"" : ""16010770853""
+  ""Tranzaksiya İD"" : ""16010770853""
+  ""Əməliyyatın məbləği"" : ""700""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""545429""
+  ""Terminal"" : ""A0180070""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944004450574100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,700 AZN,700 AZN AZN,İSMAYILOV TƏBRİZ HİDAYƏT OĞLU,04/Apr/25 4:03 PM,A0180070,,,,,,,,+994552564846,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994552564846
+DCR,BR-5465626,7016464,2nd line analysis,,Müştəri müraciəti: HƏSƏNOV TURAL EYVAZ OĞLU: Şikayət,,HuseynovaNV,crmcc,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 3:38 PM,,"
+CIF: 1227781
+CMS ID: 8074446
+FIN: 5L1CJP8
+Seria nömrəsi: AA0679986 
+aga nematulla montin baki seher probasiya
+salam musteri odenis edib ancaq atmden qebz teqdim edilmeyib z/o destek olardiniz.
+dovlet odenisi",Call Center,,,HƏSƏNOV TURAL EYVAZ OĞLU,04/Apr/25 3:36 PM,0,,,,,,,,0102502425,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0102502425
+DCR,BR-5465459,7016282,2nd line analysis,,Müştəri müraciəti: ƏLİZADƏ ELGÜN ELXAN OĞLU: Şikayət,,AlizadaER,crmcc,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 9:16 AM,,"
+CIF: 3951836
+CMS ID: 3672902
+FIN: 53F14YY
+Seria nömrəsi: AZE17186587 
+
+Salam. Müştəri exchange eden zaman vesait verilmeyibdir, lakin qebz cixib. Qebzi gonderecek. Z.o. destek olardiniz.",Call Center,,,ƏLİZADƏ ELGÜN ELXAN OĞLU,04/Apr/25 3:12 PM,A0100352,,,,,,,,0777669292,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0777669292
+DCR,BR-5465396,7016166,2nd line analysis,,Müştəri müraciəti: MƏMMƏDOV VALEH RÖVŞƏN OĞLU: Şikayət,,AbdullayevFFa,MammadaliyevTE,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 3:07 PM,Cash out,"
+CIF: 8990511
+    
+{
+  ""Kart nömrəsi"" : ""523915******0435""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T14:52:08""
+  ""RRN"" : ""TGDR298660048""
+  ""Tranzaksiya İD"" : ""16010514581""
+  ""Əməliyyatın məbləği"" : ""140""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""474521""
+  ""Terminal"" : ""BirBankATMQR""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944004672441100""
+  ""Əməliyyat"" : ""POS P2P Debit""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,140 AZN,140 AZN,MƏMMƏDOV VALEH RÖVŞƏN OĞLU,04/Apr/25 3:04 PM,BirBankATMQR,,,,,,,,+994506449119,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994506449119
+DCR,BR-5465296,7016215,2nd line analysis,,Müştəri müraciəti: ƏLİYEV MEHMAN AĞAHÜSEYN OĞLU: Şikayət,,SamadovaAM,QurbanovaSQ,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 2:52 PM,Cash out,"
+CIF: 1257995
+    
+{
+  ""Kart nömrəsi"" : ""523915******2164""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T14:17:46""
+  ""RRN"" : ""15991175530""
+  ""Tranzaksiya İD"" : ""15991175530""
+  ""Əməliyyatın məbləği"" : ""28""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""113078""
+  ""Terminal"" : ""A0100023""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944004612088100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,28 AZN,28 AZN,ƏLİYEV MEHMAN AĞAHÜSEYN OĞLU,04/Apr/25 2:50 PM,A0100023,,,,,,,,0706276987,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0706276987
+DCR,BR-5464586,7015170,2nd line analysis,,Müştəri müraciəti: QASIMOV HAMLET MƏHƏMMƏD OĞLU: Şikayət,,MemmedovaNS,AhmadliAAn,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 12:52 PM,Cash out,"
+CIF: 9004580
+    
+{
+  ""Kart nömrəsi"" : ""510307******7595""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T12:39:35""
+  ""RRN"" : ""16007975678""
+  ""Tranzaksiya İD"" : ""16007975678""
+  ""Əməliyyatın məbləği"" : ""100""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""494870""
+  ""Terminal"" : ""A0180013""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944007119202129""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,100 AZN,100 AZN,QASIMOV HAMLET MƏHƏMMƏD OĞLU,04/Apr/25 12:50 PM,A0180013,,,,,,,,506225556,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,506225556
+DCR,BR-5464272,7014845,2nd line analysis,,Müştəri müraciəti: DAVUDZADƏ AZƏR MUHİDDİN OĞLU: Şikayət,,EkberovaS,QocayevKR,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 12:12 PM,Cash out,"
+CIF: 1965051
+    
+{
+  ""Kart nömrəsi"" : ""523915******1653""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T11:53:54""
+  ""RRN"" : ""16007143418""
+  ""Tranzaksiya İD"" : ""16007143418""
+  ""Əməliyyatın məbləği"" : ""21""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""063578""
+  ""Terminal"" : ""A0138050""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944010597609299""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,21 AZN,21 AZN,DAVUDZADƏ AZƏR MUHİDDİN OĞLU,04/Apr/25 12:10 PM,A0138050,,,,,,,,0509934323,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0509934323
+DCR,BR-5464253,7014916,2nd line analysis,,Müştəri müraciəti: İSMAYILOVA TÜRKANƏ HÜSEYN QIZI: Şikayət,,AxundovaAE,HaciyevaZR,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 12:12 PM,Cash out,"
+CIF: 9940074
+    
+{
+  ""Kart nömrəsi"" : ""523915******3749""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T11:50:46""
+  ""RRN"" : ""16007086740""
+  ""Tranzaksiya İD"" : ""16007086740""
+  ""Əməliyyatın məbləği"" : ""21""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""827912""
+  ""Terminal"" : ""A0170020""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003702967100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,21 AZN,21 AZN,İSMAYILOVA TÜRKANƏ HÜSEYN QIZI,04/Apr/25 12:08 PM,A0170020,,,,,,,,+994702346500,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994702346500
+DCR,BR-5464076,7014651,2nd line analysis,,Müştəri müraciəti: ƏLABBASOV RƏHİM MEHMAN OĞLU: Şikayət,1.0,AbbasovaDA,CavadliGM,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 1:01 PM,Cash out,"
+CIF: 4500966
+    
+{
+  ""Kart nömrəsi"" : ""416973******4107""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T11:35:58""
+  ""RRN"" : ""16006827589""
+  ""Tranzaksiya İD"" : ""16006827589""
+  ""Əməliyyatın məbləği"" : ""96""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""506124""
+  ""Terminal"" : ""A0180031""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944004270199100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,96 AZN,96 AZN,ƏLABBASOV RƏHİM MEHMAN OĞLU,04/Apr/25 11:43 AM,A0180031,,,,,,,,0514395956,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0514395956
+DCR,BR-5464020,7014542,2nd line analysis,,Müştəri müraciəti: İSGƏNDƏROV RASİM ƏLİ OĞLU: Şikayət,1.0,ShiraliyevaAV,QurbanovaNA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 11:37 AM,Cash out,"
+CIF: 5902916
+    
+{
+  ""Kart nömrəsi"" : ""416973******6898""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T10:29:32""
+  ""RRN"" : ""16005730584""
+  ""Tranzaksiya İD"" : ""16005730584""
+  ""Əməliyyatın məbləği"" : ""6""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""521121""
+  ""Terminal"" : ""A0141035""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944002146967100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,6 AZN,6 AZN,İSGƏNDƏROV RASİM ƏLİ OĞLU,04/Apr/25 11:35 AM,A0141035,,,,,,,,+994504844278,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994504844278
+DCR,BR-5463931,7014500,2nd line analysis,,Müştəri müraciəti: HÜSEYNOV ƏVSƏR ƏLİ OĞLU: Şikayət,0.0,MemmedovaNS,MirzayevaAQ,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 11:27 AM,Cash out,"
+CIF: 0362073
+    
+{
+  ""Kart nömrəsi"" : ""416973******0084""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T10:54:43""
+  ""RRN"" : ""16006125450""
+  ""Tranzaksiya İD"" : ""16006125450""
+  ""Əməliyyatın məbləği"" : ""80""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""766070""
+  ""Terminal"" : ""A0151003""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005963004100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,80 AZN,80 AZN,HÜSEYNOV ƏVSƏR ƏLİ OĞLU,04/Apr/25 11:24 AM,A0151003,,,,,,,,0505777532,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0505777532
+DCR,BR-5463920,7014458,2nd line analysis,,Müştəri müraciəti: GÜLMƏMMƏDOV SAHİB SƏRVAN OĞLU: Şikayət,,MammadovaFZ,KarimovaGS,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 11:27 AM,Cash out,"
+CIF: 0231509
+    
+{
+  ""Kart nömrəsi"" : ""417358******2369""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T09:08:34""
+  ""RRN"" : ""16004618853""
+  ""Tranzaksiya İD"" : ""16004618853""
+  ""Əməliyyatın məbləği"" : ""47""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""119062""
+  ""Terminal"" : ""A0178017""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944004358707100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,47 AZN,47 AZN AZN,GÜLMƏMMƏDOV SAHİB SƏRVAN OĞLU,04/Apr/25 11:22 AM,A0178017,,,,,,,,+994552040223,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994552040223
+DCR,BR-5463868,7014435,2nd line analysis,,Müştəri müraciəti: İBADOV YEDİYAR İLHAM OĞLU: Şikayət,,HuseynovaNV,FarzaliyevaLS,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 11:17 AM,Cash out,"
+CIF: 0565169
+    
+{
+  ""Kart nömrəsi"" : ""416973******0579""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T11:05:19""
+  ""RRN"" : ""16006302070""
+  ""Tranzaksiya İD"" : ""16006302070""
+  ""Əməliyyatın məbləği"" : ""133""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""921619""
+  ""Terminal"" : ""A0127013""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003906782100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,133 AZN,133 AZN,İBADOV YEDİYAR İLHAM OĞLU,04/Apr/25 11:15 AM,A0127013,,,,,,,,0556197484,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0556197484
+DCR,BR-5463762,7014306,2nd line analysis,,Müştəri müraciəti: MƏNƏFOV BALAY YAQUB OĞLU: Şikayət,,AxundovaAE,SadiqovaSS,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 10:46 AM,Cash out,"
+CIF: 1798974
+    
+{
+  ""Kart nömrəsi"" : ""523915******3005""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T10:20:05""
+  ""RRN"" : ""16005586767""
+  ""Tranzaksiya İD"" : ""16005586767""
+  ""Əməliyyatın məbləği"" : ""900""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""142576""
+  ""Terminal"" : ""A0100056""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003806391100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,900 AZN,900 AZN,MƏNƏFOV BALAY YAQUB OĞLU,04/Apr/25 11:01 AM,A0100056,,,,,,,,0554205563,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0554205563
+DCR,BR-5463614,7014140,2nd line analysis,,Müştəri müraciəti: KAMALOV FƏQANİ FİRDOVSİ OĞLU: Şikayət,1.0,TanriverdiyevaGN,HaciyevKV,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 10:25 AM,Cash out,"
+CIF: 3203511
+    
+{
+  ""Kart nömrəsi"" : ""416973******9841""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T10:26:28""
+  ""RRN"" : ""16005684615""
+  ""Tranzaksiya İD"" : ""16005684615""
+  ""Əməliyyatın məbləği"" : ""440""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""322721""
+  ""Terminal"" : ""A0100039""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944002049701100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,440 AZN,440 AZN,KAMALOV FƏQANİ FİRDOVSİ OĞLU,04/Apr/25 10:42 AM,A0100039,,,,,,,,0702242494,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0702242494
+DCR,BR-5463577,7014121,2nd line analysis,,Müştəri müraciəti: ƏLİYEVA SOLMAZ SABİR QIZI: Şikayət,,QambarovaLI,YariyevMP,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 10:42 AM,Cash out,"
+CIF: 1882875
+    
+{
+  ""Kart nömrəsi"" : ""510307******7707""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T10:17:32""
+  ""RRN"" : ""16005548007""
+  ""Tranzaksiya İD"" : ""16005548007""
+  ""Əməliyyatın məbləği"" : ""2000""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""760023""
+  ""Terminal"" : ""A0138013""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944001464110176""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,2000 AZN,2000 AZN,ƏLİYEVA SOLMAZ SABİR QIZI,04/Apr/25 10:37 AM,A0138013,,,,,,,,0503223617,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0503223617
+DCR,BR-5463313,7013825,2nd line analysis,,Müştəri müraciəti: SƏFQULİYEVA TACİRƏ NUŞİRAVAN QIZI: Şikayət,,AbdullayevSM,HuseynovaSM,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 10:07 AM,Cash out,"
+CIF: 1590925
+    
+{
+  ""Kart nömrəsi"" : ""416973******8765""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T09:38:45""
+  ""RRN"" : ""16005006084""
+  ""Tranzaksiya İD"" : ""16005006084""
+  ""Əməliyyatın məbləği"" : ""5""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""164063""
+  ""Terminal"" : ""A0100128""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944010038034113""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,5 AZN,5 AZN,SƏFQULİYEVA TACİRƏ NUŞİRAVAN QIZI,04/Apr/25 10:05 AM,A0100128,,,,,,,,+994552451405,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994552451405
+DCR,BR-5463188,7013611,2nd line analysis,,Müştəri müraciəti: ƏLƏKBƏROV NEMƏT NAMİD OĞLU: Şikayət,,SamadovaAM,HaciyevaZR,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 9:52 AM,Cash out,"
+CIF: 2675629
+    
+{
+  ""Kart nömrəsi"" : ""523915******0477""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T09:20:03""
+  ""RRN"" : ""16004760760""
+  ""Tranzaksiya İD"" : ""16004760760""
+  ""Əməliyyatın məbləği"" : ""350""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""973969""
+  ""Terminal"" : ""A0151017""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003475191100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,350 AZN,350 AZN,ƏLƏKBƏROV NEMƏT NAMİD OĞLU,04/Apr/25 9:50 AM,A0151017,,,,,,,,0507959140,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0507959140
+DCR,BR-5463145,7013547,2nd line analysis,,Müştəri müraciəti: ƏSGƏROVA ELNARƏ ƏRŞAD QIZI: Şikayət,1.0,MammadzadaCF,QurbanovaNA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 9:47 AM,Cash out,"
+CIF: 4656795
+    
+{
+  ""Kart nömrəsi"" : ""416973******1866""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T09:39:21""
+  ""RRN"" : ""16005013937""
+  ""Tranzaksiya İD"" : ""16005013937""
+  ""Əməliyyatın məbləği"" : ""1000""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""992657""
+  ""Terminal"" : ""A0100255""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005137270100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,1000 AZN,1000 AZN,ƏSGƏROVA ELNARƏ ƏRŞAD QIZI,04/Apr/25 9:45 AM,A0100255,,,,,,,,+994703435493,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994703435493
+DCR,BR-5462799,7013054,2nd line analysis,,Müştəri müraciəti: KAZIMOV MAHƏDDİN MİRCƏMİL OĞLU: Şikayət,,BagirovaXG,AbbasovaNF,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 12:02 PM,Cash out,"
+CIF: 2233556
+    
+{
+  ""Kart nömrəsi"" : ""523915******5503""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T23:16:08""
+  ""RRN"" : ""16001469839""
+  ""Tranzaksiya İD"" : ""16001469839""
+  ""Əməliyyatın məbləği"" : ""367""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""143113""
+  ""Terminal"" : ""A0100120""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003784506100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,367 AZN,367 AZN,KAZIMOV MAHƏDDİN MİRCƏMİL OĞLU,04/Apr/25 8:28 AM,A0100120,,,,,,,,+994552597240,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994552597240
+DCR,BR-5462722,7012962,2nd line analysis,,Müştəri müraciəti: ABBASOV YAŞAR İSRAFİL OĞLU: Şikayət,1.0,MemmedovaNS,AslanliCM,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 12:47 AM,Cash out,"
+CIF: 5048406
+    
+{
+  ""Kart nömrəsi"" : ""523915******5630""
+  ""Əməliyyatın tarixi"" : ""2025-04-04T00:02:40""
+  ""RRN"" : ""16002139440""
+  ""Tranzaksiya İD"" : ""16002139440""
+  ""Əməliyyatın məbləği"" : ""250""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""063201""
+  ""Terminal"" : ""A0100444""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944012234467299""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,250 AZN,250 AZN AZN,ABBASOV YAŞAR İSRAFİL OĞLU,04/Apr/25 12:43 AM,A0100444,,,,,,,,0705622200,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0705622200
+DCR,BR-5462621,7012838,2nd line analysis,,Müştəri müraciəti: ABBASZADƏ VALİD BÖYÜKAĞA OĞLU: Şikayət,,EkberovaS,MammadaliyevTE,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 11:12 PM,Cash out,"
+CIF: 5148462
+    
+{
+  ""Kart nömrəsi"" : ""416973******0994""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T23:02:02""
+  ""RRN"" : ""16001279204""
+  ""Tranzaksiya İD"" : ""16001279204""
+  ""Əməliyyatın məbləği"" : ""37""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""853065""
+  ""Terminal"" : ""A0138008""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005716839100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,37 AZN,37 AZN,ABBASZADƏ VALİD BÖYÜKAĞA OĞLU,03/Apr/25 11:07 PM,A0138008,,,,,,,,+994504582890,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994504582890
+DCR,BR-5462406,7012578,2nd line analysis,,Müştəri müraciəti: ƏSGƏROV AYXAN XƏYAL OĞLU: Şikayət,,KerimovFA,AlizadaAS,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 8:37 PM,Cash out,"
+CIF: 1744105
+    
+{
+  ""Kart nömrəsi"" : ""416974******5549""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T19:56:27""
+  ""RRN"" : ""15997688893""
+  ""Tranzaksiya İD"" : ""15997688893""
+  ""Əməliyyatın məbləği"" : ""24""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""882007""
+  ""Terminal"" : ""A0127057""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944012984617185""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,24 AZN,24 AZN,ƏSGƏROV AYXAN XƏYAL OĞLU,03/Apr/25 8:37 PM,A0127057,,,,,,,,0556299000,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0556299000
+DCR,BR-5462028,7012211,2nd line analysis,,Müştəri müraciəti: ƏLİBABAZADƏ FƏRİD RAMİZ OĞLU: Şikayət,,AbbasovKAl,SultanovaAS,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 6:07 PM,Cash out,"
+CIF: 2839988
+    
+{
+  ""Kart nömrəsi"" : ""416973******3740""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T17:05:25""
+  ""RRN"" : ""15994237567""
+  ""Tranzaksiya İD"" : ""15994237567""
+  ""Əməliyyatın məbləği"" : ""230""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""394407""
+  ""Terminal"" : ""A0151025""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944002586025100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,230 AZN,230azn AZN,ƏLİBABAZADƏ FƏRİD RAMİZ OĞLU,03/Apr/25 6:03 PM,A0151025,,,,,,,,994513282018,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,994513282018
+DCR,BR-5461872,7011960,2nd line analysis,,Müştəri müraciəti: ABDULLAYEV RAUF RƏFAİL OĞLU: Şikayət,,KerimovFA,AsgarovOA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 5:42 PM,Cash out,"
+CIF: 2769648
+    
+{
+  ""Kart nömrəsi"" : ""416973******3458""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T17:25:17""
+  ""RRN"" : ""15994609656""
+  ""Tranzaksiya İD"" : ""15994609656""
+  ""Əməliyyatın məbləği"" : ""1""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""914904""
+  ""Terminal"" : ""A0100148""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944002359974100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,1 AZN,1 AZN,ABDULLAYEV RAUF RƏFAİL OĞLU,03/Apr/25 5:39 PM,A0100148,,,,,,,,0509746373,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0509746373
+DCR,BR-5461800,7011933,2nd line analysis,,Müştəri müraciəti: QULAMƏLİYEV SAMİR BÖYÜKAĞA OĞLU: Şikayət,1.0,HaciyevaAN,CavadliGM,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 5:32 PM,Cash out,"
+CIF: 1770085
+    
+{
+  ""Kart nömrəsi"" : ""416973******4572""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T15:19:55""
+  ""RRN"" : ""15992298833""
+  ""Tranzaksiya İD"" : ""15992298833""
+  ""Əməliyyatın məbləği"" : ""1000""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""898600""
+  ""Terminal"" : ""A0100569""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944010361321114""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,1000 AZN,1000 AZN,QULAMƏLİYEV SAMİR BÖYÜKAĞA OĞLU,03/Apr/25 5:29 PM,A0100569,,,,,,,,0556192211,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0556192211
+DCR,BR-5461720,7011849,2nd line analysis,,Müştəri müraciəti: ƏLİBABAZADƏ FƏRİD RAMİZ OĞLU: Şikayət,,AlizadaER,CabbarliAD,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 5:22 PM,Cash out,"
+CIF: 2839988
+    
+{
+  ""Kart nömrəsi"" : ""416973******3740""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T17:05:25""
+  ""RRN"" : ""15994237567""
+  ""Tranzaksiya İD"" : ""15994237567""
+  ""Əməliyyatın məbləği"" : ""230""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""394407""
+  ""Terminal"" : ""A0151025""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944002586025100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,230 AZN,230 AZN,ƏLİBABAZADƏ FƏRİD RAMİZ OĞLU,03/Apr/25 5:19 PM,A0151025,,,,,,,,0513282018,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0513282018
+DCR,BR-5461623,7011812,2nd line analysis,,Müştəri müraciəti: MURADOV ELNUR TAHİR OĞLU: Şikayət,,BagirovaXG,AliyevaNSar,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 5:13 PM,Cash out,"
+CIF: 0586491
+    
+{
+  ""Kart nömrəsi"" : ""416973******7871""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T16:54:07""
+  ""RRN"" : ""15994027455""
+  ""Tranzaksiya İD"" : ""15994027455""
+  ""Əməliyyatın məbləği"" : ""50""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""330951""
+  ""Terminal"" : ""A0140008""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944010266152187""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,50 AZN,50 AZN,MURADOV ELNUR TAHİR OĞLU,03/Apr/25 5:09 PM,A0140008,,,,,,,,+994504451558,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994504451558
+DCR,BR-5461391,7011283,2nd line analysis,,Müştəri müraciəti: ŞIXƏLİYEVA AYBƏNİZ ZAKİT QIZI: Şikayət,,AbbasovaDA,XalilovEEld,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 4:37 PM,Cash out,"
+CIF: 1506855
+    
+{
+  ""Kart nömrəsi"" : ""416974******5111""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T12:42:01""
+  ""RRN"" : ""15989412693""
+  ""Tranzaksiya İD"" : ""15989412693""
+  ""Əməliyyatın məbləği"" : ""25""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""195265""
+  ""Terminal"" : ""A0100517""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944000664370107""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,25 AZN,25 AZN,ŞIXƏLİYEVA AYBƏNİZ ZAKİT QIZI,03/Apr/25 4:35 PM,A0100517,,,,,,,,0558484110,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0558484110
+DCR,BR-5461092,7010952,2nd line analysis,,Müştəri müraciəti: HACIYEV EŞQİN MUSTAFA OĞLU: Şikayət,,BagirovaXG,MuradovaGV,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 4:02 PM,Cash out,"
+CIF: 3132935
+    
+{
+  ""Kart nömrəsi"" : ""523915******0756""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T15:21:03""
+  ""RRN"" : ""15992318328""
+  ""Tranzaksiya İD"" : ""15992318328""
+  ""Əməliyyatın məbləği"" : ""170""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""007272""
+  ""Terminal"" : ""A0182023""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944010828742299""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,170 AZN,170 AZN,HACIYEV EŞQİN MUSTAFA OĞLU,03/Apr/25 4:00 PM,A0182023,,,,,,,,0503872753,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0503872753
+DCR,BR-5460617,7010474,2nd line analysis,,Müştəri müraciəti: İSMAYILOV RAUF FƏXRƏDDİN OĞLU: Şikayət,,AxundovaAE,FarzaliyevaLS,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 3:07 PM,Cash out,"
+CIF: 1900544
+    
+{
+  ""Kart nömrəsi"" : ""416973******7496""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T14:53:10""
+  ""RRN"" : ""15991818789""
+  ""Tranzaksiya İD"" : ""15991818789""
+  ""Əməliyyatın məbləği"" : ""158""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""519057""
+  ""Terminal"" : ""A0100224""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944004155761100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,158 AZN,158 AZN,İSMAYILOV RAUF FƏXRƏDDİN OĞLU,03/Apr/25 3:04 PM,A0100224,,,,,,,,0503207291,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0503207291
+DCR,BR-5460601,7010353,2nd line analysis,,Müştəri müraciəti: YUSİFLİ AZAD CAVANŞİR OĞLU: Şikayət,,AlizadaER,EyyubovaSA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 3:02 PM,Cash out,"
+CIF: 0154919
+    
+{
+  ""Kart nömrəsi"" : ""416973******3045""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T14:53:48""
+  ""RRN"" : ""15991830376""
+  ""Tranzaksiya İD"" : ""15991830376""
+  ""Əməliyyatın məbləği"" : ""286""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""028155""
+  ""Terminal"" : ""A0101006""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009755775101""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,286 AZN,286 AZN,YUSİFLİ AZAD CAVANŞİR OĞLU,03/Apr/25 3:01 PM,A0101006,,,,,,,,0604010818,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0604010818
+DCR,BR-5460485,7010418,2nd line analysis,,Müştəri müraciəti: HÜSEYİNOVA GÜLNARƏ ZEYNƏDDİN QIZI: Şikayət,,AbbasovKAl,QurbanovaSQ,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 2:47 PM,Cash out,"
+CIF: 0374205
+    
+{
+  ""Kart nömrəsi"" : ""416973******4821""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T12:47:40""
+  ""RRN"" : ""15989514967""
+  ""Tranzaksiya İD"" : ""15989514967""
+  ""Əməliyyatın məbləği"" : ""15""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""894732""
+  ""Terminal"" : ""A0170025""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003300019100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,15 AZN,15 AZN,HÜSEYİNOVA GÜLNARƏ ZEYNƏDDİN QIZI,03/Apr/25 2:45 PM,A0170025,,,,,,,,0504763347,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0504763347
+DCR,BR-5460459,7010263,2nd line analysis,,Müştəri müraciəti: ƏHMƏDOV ORXAN FİZULİ OĞLU: Şikayət,,TanriverdiyevaGN,AlizadaAS,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 2:48 PM,Cash out,"
+CIF: 2680969
+    
+{
+  ""Kart nömrəsi"" : ""523915******2483""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T14:33:27""
+  ""RRN"" : ""15991461427""
+  ""Tranzaksiya İD"" : ""15991461427""
+  ""Əməliyyatın məbləği"" : ""1""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""559960""
+  ""Terminal"" : ""A0127035""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944004554956100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,1 AZN,1 AZN,ƏHMƏDOV ORXAN FİZULİ OĞLU,03/Apr/25 2:42 PM,A0127035,,,,,,,,0514425040,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0514425040
+DCR,BR-5460429,7010251,2nd line analysis,,Müştəri müraciəti: SAYQILI HƏSƏN MUSTAFA OĞLU: Şikayət,,SamadovaAM,AbbasovaAB,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 2:43 PM,Cash out,"
+CIF: 3415305
+    
+{
+  ""Kart nömrəsi"" : ""416973******3306""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T13:14:11""
+  ""RRN"" : ""15989996184""
+  ""Tranzaksiya İD"" : ""15989996184""
+  ""Əməliyyatın məbləği"" : ""1000""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""923119""
+  ""Terminal"" : ""A0100493""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005243214100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Web-site,1000 AZN,1000 AZN,SAYQILI HƏSƏN MUSTAFA OĞLU,03/Apr/25 2:38 PM,A0100493,,,,,,,,0602120240,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0602120240
+DCR,BR-5460422,7010248,2nd line analysis,,Müştəri müraciəti: SAYQILI HƏSƏN MUSTAFA OĞLU: Şikayət,,QambarovaLI,AbbasovaAB,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 2:44 PM,Cash out,"
+CIF: 3415305
+    
+{
+  ""Kart nömrəsi"" : ""416973******3306""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T13:14:11""
+  ""RRN"" : ""15989996184""
+  ""Tranzaksiya İD"" : ""15989996184""
+  ""Əməliyyatın məbləği"" : ""1000""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""923119""
+  ""Terminal"" : ""A0100493""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005243214100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Web-site,1000 AZN,1000 AZN,SAYQILI HƏSƏN MUSTAFA OĞLU,03/Apr/25 2:37 PM,A0100493,,,,,,,,0602120240,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0602120240
+DCR,BR-5460408,7010184,2nd line analysis,,Müştəri müraciəti: SAYQILI HƏSƏN MUSTAFA OĞLU: Şikayət,0.0,MammadovaFZ,MirzayevaAQ,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 2:37 PM,Cash out,"
+CIF: 3415305
+    
+{
+  ""Kart nömrəsi"" : ""416973******3306""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T13:14:11""
+  ""RRN"" : ""15989996184""
+  ""Tranzaksiya İD"" : ""15989996184""
+  ""Əməliyyatın məbləği"" : ""1000""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""923119""
+  ""Terminal"" : ""A0100493""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005243214100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,1000 AZN,1000 AZN,SAYQILI HƏSƏN MUSTAFA OĞLU,03/Apr/25 2:35 PM,A0100493,,,,,,,,0602120240,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0602120240
+DCR,BR-5460250,7009961,2nd line analysis,,Müştəri müraciəti: ƏLİYEV SƏFƏR CƏLAL OĞLU: Şikayət,,EkberovaS,XudiyevaAA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 2:17 PM,Cash out,"
+CIF: 1522353
+    
+{
+  ""Kart nömrəsi"" : ""523915******3281""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T14:07:52""
+  ""RRN"" : ""15990994273""
+  ""Tranzaksiya İD"" : ""15990994273""
+  ""Əməliyyatın məbləği"" : ""149""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""911399""
+  ""Terminal"" : ""A0100098""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005010908100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,149 AZN,149 AZN,ƏLİYEV SƏFƏR CƏLAL OĞLU,03/Apr/25 2:13 PM,A0100098,,,,,,,,0702706323,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0702706323
+DCR,BR-5460116,7009915,2nd line analysis,,Müştəri müraciəti: OSMANOV CƏLİL OSMAN OĞLU: Şikayət,,QambarovaLI,NovruzovaJI,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 1:57 PM,Cash out,"
+CIF: 0563337
+    
+{
+  ""Kart nömrəsi"" : ""416973******3925""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T13:46:53""
+  ""RRN"" : ""15990603865""
+  ""Tranzaksiya İD"" : ""15990603865""
+  ""Əməliyyatın məbləği"" : ""10""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""424109""
+  ""Terminal"" : ""A0100181""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944006057977100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,10 AZN,10 AZN,OSMANOV CƏLİL OSMAN OĞLU,03/Apr/25 1:52 PM,A0100181,,,,,,,,998332545,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,998332545
+DCR,BR-5459896,7009586,2nd line analysis,,Müştəri müraciəti: QƏNBƏROV ÜLVİ RAMİZ OĞLU: Şikayət,,AlizadaER,AbasquliyevMZ,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 12:52 PM,Cash out,"
+CIF: 1450659
+    
+{
+  ""Kart nömrəsi"" : ""510307******5510""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T13:07:19""
+  ""RRN"" : ""15989868091""
+  ""Tranzaksiya İD"" : ""15989868091""
+  ""Əməliyyatın məbləği"" : ""620""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""785064""
+  ""Terminal"" : ""A0100139""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944012725178118""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,620 AZN,620 AZN,QƏNBƏROV ÜLVİ RAMİZ OĞLU,03/Apr/25 1:12 PM,A0100139,,,,,,,,+994502424735,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994502424735
+DCR,BR-5459812,7009546,2nd line analysis,,Müştəri müraciəti: ELBRUSLU ORXAN NURƏDDİN OĞLU: Şikayət,,AbbasovKAl,QasimovaME,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 1:02 PM,Cash out,"
+CIF: 3782358
+    
+{
+  ""Kart nömrəsi"" : ""416973******1668""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T12:22:49""
+  ""RRN"" : ""15989076552""
+  ""Tranzaksiya İD"" : ""15989076552""
+  ""Əməliyyatın məbləği"" : ""15""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""050269""
+  ""Terminal"" : ""A0100416""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944004375068100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,15 AZN,15 AZN,ELBRUSLU ORXAN NURƏDDİN OĞLU,03/Apr/25 1:00 PM,A0100416,,,,,,,,0504323863,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0504323863
+DCR,BR-5459537,7009185,2nd line analysis,,Müştəri müraciəti: MİRZƏLİYEV TALEH YAVƏR OĞLU: Şikayət,0.0,MammadzadaCF,AzimovaEA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 4:43 PM,Cash out,"
+CIF: 9134042
+    
+{
+  ""Kart nömrəsi"" : ""416973******0926""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T12:21:06""
+  ""RRN"" : ""15989047054""
+  ""Tranzaksiya İD"" : ""15989047054""
+  ""Əməliyyatın məbləği"" : ""377""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""342204""
+  ""Terminal"" : ""A0100306""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944002389630100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,377 AZN,377 AZN,MİRZƏLİYEV TALEH YAVƏR OĞLU,03/Apr/25 12:24 PM,A0100306,,,,,,,,+994705670267,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994705670267
+DCR,BR-5458950,7008361,2nd line analysis,,Müştəri müraciəti: HƏSƏNOVA ZƏRİF KAMİL QIZI: Şikayət,,AbdullayevSM,AliyevaTF,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 9:34 AM,Cash out,"
+CIF: 2410970
+    
+{
+  ""Kart nömrəsi"" : ""416973******0446""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T10:58:20""
+  ""RRN"" : ""15987698746""
+  ""Tranzaksiya İD"" : ""15987698746""
+  ""Əməliyyatın məbləği"" : ""860""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""298317""
+  ""Terminal"" : ""A0100418""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003230786100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,860 AZN,860 AZN,HƏSƏNOVA ZƏRİF KAMİL QIZI,03/Apr/25 11:12 AM,A0100418,,,,,,,,0504888982,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0504888982
+DCR,BR-5458930,7008512,2nd line analysis,,Müştəri müraciəti: YAZIÇYEV SULTAN İBRƏHİM OĞLU: Şikayət,,AbbasovaDA,RahimovVA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 11:12 AM,Cash out,"
+CIF: 0006860
+    
+{
+  ""Kart nömrəsi"" : ""416974******3805""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T10:30:52""
+  ""RRN"" : ""15987293143""
+  ""Tranzaksiya İD"" : ""15987293143""
+  ""Əməliyyatın məbləği"" : ""96""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""052748""
+  ""Terminal"" : ""A0166024""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944004005178106""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,96 AZN,96 AZN,YAZIÇYEV SULTAN İBRƏHİM OĞLU,03/Apr/25 11:08 AM,A0166024,,,,,,,,0558699333,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0558699333
+DCR,BR-5458905,7008189,2nd line analysis,,Müştəri müraciəti: ALQAYEV KAMİL ƏLİ OĞLU: Şikayət,,ShiraliyevaAV,BahadirovRQa,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 11:08 AM,Cash out,"
+CIF: 1575696
+    
+{
+  ""Kart nömrəsi"" : ""416973******9466""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T09:45:55""
+  ""RRN"" : ""15986672637""
+  ""Tranzaksiya İD"" : ""15986672637""
+  ""Əməliyyatın məbləği"" : ""300""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""900101""
+  ""Terminal"" : ""A0170026""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003905382100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,300 AZN,300 AZN,ALQAYEV KAMİL ƏLİ OĞLU,03/Apr/25 11:05 AM,A0170026,,,,,,,,+994503011371,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994503011371
+DCR,BR-5458874,7008286,2nd line analysis,,Müştəri müraciəti: NƏSİBZADƏ HƏMİD RASİM OĞLU: Şikayət,,MammadzadaCF,QurbanovaSQ,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 11:02 AM,Cash out,"
+CIF: 9077238
+    
+{
+  ""Kart nömrəsi"" : ""523915******8985""
+  ""Əməliyyatın tarixi"" : ""2025-04-02T18:23:35""
+  ""RRN"" : ""15977623303""
+  ""Tranzaksiya İD"" : ""15977623303""
+  ""Əməliyyatın məbləği"" : ""112""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""272428""
+  ""Terminal"" : ""A0140030""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944011696877123""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,112 AZN,112 AZN,NƏSİBZADƏ HƏMİD RASİM OĞLU,03/Apr/25 11:01 AM,A0140030,,,,,,,,0519913030,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0519913030
+DCR,BR-5458829,7008265,2nd line analysis,,Müştəri müraciəti: YAZIÇYEV SULTAN İBRƏHİM OĞLU: Şikayət,,MalikovaSF,MustafayevaRA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 10:57 AM,Cash out,"
+CIF: 0006860
+    
+{
+  ""Kart nömrəsi"" : ""416974******3805""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T10:30:52""
+  ""RRN"" : ""15987293143""
+  ""Tranzaksiya İD"" : ""15987293143""
+  ""Əməliyyatın məbləği"" : ""96""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""052748""
+  ""Terminal"" : ""A0166024""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944004005178106""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,96 AZN,96 AZN,YAZIÇYEV SULTAN İBRƏHİM OĞLU,03/Apr/25 10:54 AM,A0166024,,,,,,,,0558699333,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0558699333
+DCR,BR-5458229,7007501,2nd line analysis,,Müştəri müraciəti: MƏMMƏDOV NİYAMƏDDİN VƏLİ OĞLU: Şikayət,0.0,AbdullayevSM,HaciyevaJP,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 9:42 AM,Cash out,"
+CIF: 1131095
+    
+{
+  ""Kart nömrəsi"" : ""416973******8372""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T09:20:10""
+  ""RRN"" : ""15986347981""
+  ""Tranzaksiya İD"" : ""15986347981""
+  ""Əməliyyatın məbləği"" : ""150""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""394980""
+  ""Terminal"" : ""A0101017""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009695413130""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,150 AZN,150 AZN,MƏMMƏDOV NİYAMƏDDİN VƏLİ OĞLU,03/Apr/25 9:39 AM,A0101017,,,,,,,,0602008470,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0602008470
+DCR,BR-5457962,7007060,2nd line analysis,,Müştəri müraciəti: MAXSUDOVA NAİBƏ ƏLİ QIZI: Şikayət,,HasimzadaSR,AliyevaTF,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 8:09 AM,Cash out,"
+CIF: 3068656
+    
+{
+  ""Kart nömrəsi"" : ""416973******5500""
+  ""Əməliyyatın tarixi"" : ""2025-03-31T14:28:02""
+  ""RRN"" : ""15937108804""
+  ""Tranzaksiya İD"" : ""15937108804""
+  ""Əməliyyatın məbləği"" : ""1670""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""635468""
+  ""Terminal"" : ""A0100569""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009485612226""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,1670 AZN,1670 AZN,MAXSUDOVA NAİBƏ ƏLİ QIZI,03/Apr/25 8:06 AM,A0100569,,,,,,,,0509966584,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0509966584
+DCR,BR-5457943,7006972,2nd line analysis,,Müştəri müraciəti: QULİYEVA RƏSMİYYƏ ƏZİZULLA QIZI: Şikayət,,EkberovaS,HasanovaSV,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,03/Apr/25 6:02 AM,Cash out,"
+CIF: 1667230
+    
+{
+  ""Kart nömrəsi"" : ""416973******7062""
+  ""Əməliyyatın tarixi"" : ""2025-04-03T05:41:40""
+  ""RRN"" : ""15985037519""
+  ""Tranzaksiya İD"" : ""15985037519""
+  ""Əməliyyatın məbləği"" : ""400""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""146471""
+  ""Terminal"" : ""A0100365""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003328635100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,400 AZN,400 AZN,QULİYEVA RƏSMİYYƏ ƏZİZULLA QIZI,03/Apr/25 5:58 AM,A0100365,,,,,,,,0506650809,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0506650809
+DCR,BR-5457754,7006926,2nd line analysis,,Müştəri müraciəti: DƏMİROV NİHAD NEMAN OĞLU: Şikayət,,AbbasovKAl,AliyevaChZ,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,02/Apr/25 10:52 PM,Cash out,"
+CIF: 5128109
+    
+{
+  ""Kart nömrəsi"" : ""416973******6702""
+  ""Əməliyyatın tarixi"" : ""2025-04-02T21:21:45""
+  ""RRN"" : ""15981336288""
+  ""Tranzaksiya İD"" : ""15981336288""
+  ""Əməliyyatın məbləği"" : ""8""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""552008""
+  ""Terminal"" : ""A0100251""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944006315606100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Web-site,8 AZN,8 AZN,DƏMİROV NİHAD NEMAN OĞLU,02/Apr/25 10:50 PM,A0100251,,,,,,,,0775445726,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0775445726
+DCR,BR-5457111,7006109,2nd line analysis,,Müştəri müraciəti: QULİYEVA GÜLLÜBƏYİM CƏMİL QIZI: Şikayət,,AlasgarliAF,XanlarovaCI,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,02/Apr/25 5:57 PM,Cash out,"
+CIF: 4494227
+    
+{
+  ""Kart nömrəsi"" : ""523915******8581""
+  ""Əməliyyatın tarixi"" : ""2025-04-02T16:09:56""
+  ""RRN"" : ""15975033963""
+  ""Tranzaksiya İD"" : ""15975033963""
+  ""Əməliyyatın məbləği"" : ""139""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""433275""
+  ""Terminal"" : ""A0178050""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005581971100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Web-site,139 AZN,139 AZN,QULİYEVA GÜLLÜBƏYİM CƏMİL QIZI,02/Apr/25 5:56 PM,A0178050,,,,,,,,0513582361,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0513582361
+DCR,BR-5456507,7005361,2nd line analysis,,Müştəri müraciəti: QULİYEVA GÜLLÜBƏYİM CƏMİL QIZI: Şikayət,,QambarovaLI,ZaliyevaAM,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,02/Apr/25 4:42 PM,Cash out,"
+CIF: 4494227
+    
+{
+  ""Kart nömrəsi"" : ""523915******8581""
+  ""Əməliyyatın tarixi"" : ""2025-04-02T16:09:56""
+  ""RRN"" : ""15975033963""
+  ""Tranzaksiya İD"" : ""15975033963""
+  ""Əməliyyatın məbləği"" : ""139""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""433275""
+  ""Terminal"" : ""A0178050""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005581971100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,139 AZN,139 AZN,QULİYEVA GÜLLÜBƏYİM CƏMİL QIZI,02/Apr/25 4:40 PM,A0178050,,,,,,,,0513582361,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0513582361
+DCR,BR-5455953,7004809,2nd line analysis,,Müştəri müraciəti: ORUCOV NOVRUZƏLİ HÜSEYN OĞLU: Şikayət,,MammadovaFZ,QurbanovaSQ,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,02/Apr/25 3:42 PM,Cash out,"
+CIF: 1775583
+    
+{
+  ""Kart nömrəsi"" : ""416974******2328""
+  ""Əməliyyatın tarixi"" : ""2025-04-02T15:28:58""
+  ""RRN"" : ""15974288337""
+  ""Tranzaksiya İD"" : ""15974288337""
+  ""Əməliyyatın məbləği"" : ""69""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""242568""
+  ""Terminal"" : ""A0100168""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944007488637106""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,69 AZN,69 AZN,ORUCOV NOVRUZƏLİ HÜSEYN OĞLU,02/Apr/25 3:41 PM,A0100168,,,,,,,,0502117901,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0502117901
+DCR,BR-5455239,7003686,2nd line analysis,,Müştəri müraciəti: MƏMMƏDOVA BAĞDAGÜL FƏRƏC QIZI: Şikayət,,AlizadaSIl,tagizadamq,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,02/Apr/25 2:17 PM,Cash out,"
+CIF: 2649812
+    
+{
+  ""Kart nömrəsi"" : ""523915******1399""
+  ""Əməliyyatın tarixi"" : ""2025-04-02T13:53:59""
+  ""RRN"" : ""15972541261""
+  ""Tranzaksiya İD"" : ""15972541261""
+  ""Əməliyyatın məbləği"" : ""118""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""344677""
+  ""Terminal"" : ""A0101031""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003466964100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,118 AZN,118 AZN,MƏMMƏDOVA BAĞDAGÜL FƏRƏC QIZI,02/Apr/25 2:16 PM,A0101031,,,,,,,,+994514097765,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994514097765
+DCR,BR-5455165,7003660,2nd line analysis,,Müştəri müraciəti: MƏMMƏDOVA BAĞDAGÜL FƏRƏC QIZI: Şikayət,0.0,AbdullayevFFa,YaqubzadaNMu,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,02/Apr/25 2:12 PM,Cash out,"
+CIF: 2649812
+    
+{
+  ""Kart nömrəsi"" : ""523915******1399""
+  ""Əməliyyatın tarixi"" : ""2025-04-02T13:53:59""
+  ""RRN"" : ""15972541261""
+  ""Tranzaksiya İD"" : ""15972541261""
+  ""Əməliyyatın məbləği"" : ""118""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""344677""
+  ""Terminal"" : ""A0101031""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003466964100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,118 AZN,118 AZN,MƏMMƏDOVA BAĞDAGÜL FƏRƏC QIZI,02/Apr/25 2:08 PM,A0101031,,,,,,,,0514097765,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0514097765
+DCR,BR-5455015,7003527,2nd line analysis,,Müştəri müraciəti: MİNƏXANOV SAMİL KAMİL OĞLU: Şikayət,,MalikovaSF,ZeynalovaAN,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,02/Apr/25 1:47 PM,Cash out,"
+CIF: 0703142
+    
+{
+  ""Kart nömrəsi"" : ""416973******3456""
+  ""Əməliyyatın tarixi"" : ""2025-04-02T13:32:22""
+  ""RRN"" : ""15972134315""
+  ""Tranzaksiya İD"" : ""15972134315""
+  ""Əməliyyatın məbləği"" : ""185""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""438283""
+  ""Terminal"" : ""A0100226""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009646034207""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,185 AZN,185 AZN,MİNƏXANOV SAMİL KAMİL OĞLU,02/Apr/25 1:44 PM,A0100226,,,,,,,,0705151222,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0705151222
+DCR,BR-5454221,7002562,2nd line analysis,,Müştəri müraciəti: SÜLEYMANOV İSRAFİL İSLAM OĞLU: Şikayət,,BagirovaXG,AliyevaTVa,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,02/Apr/25 12:07 PM,Cash out,"
+CIF: 4307056
+    
+{
+  ""Kart nömrəsi"" : ""416973******3320""
+  ""Əməliyyatın tarixi"" : ""2025-04-02T10:22:22""
+  ""RRN"" : ""15968855519""
+  ""Tranzaksiya İD"" : ""15968855519""
+  ""Əməliyyatın məbləği"" : ""30""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""066643""
+  ""Terminal"" : ""A0151010""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944010210899143""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,30 AZN,30 AZN,SÜLEYMANOV İSRAFİL İSLAM OĞLU,02/Apr/25 12:06 PM,A0151010,,,,,,,,+994503522701,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994503522701
+DCR,BR-5454097,7002421,2nd line analysis,,Müştəri müraciəti: İSGƏNDƏROV BAYRAM MƏMMƏDXAN OĞLU: Şikayət,,AbbasovaDA,NasibovSM,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,02/Apr/25 11:57 AM,Cash out,"
+CIF: 3949164
+    
+{
+  ""Kart nömrəsi"" : ""523915******1945""
+  ""Əməliyyatın tarixi"" : ""2025-04-02T11:11:08""
+  ""RRN"" : ""15969611185""
+  ""Tranzaksiya İD"" : ""15969611185""
+  ""Əməliyyatın məbləği"" : ""25""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""713270""
+  ""Terminal"" : ""A0151029""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944004329253100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,25 AZN,25 AZN AZN,İSGƏNDƏROV BAYRAM MƏMMƏDXAN OĞLU,02/Apr/25 11:53 AM,A0151029,,,,,,,,0505098578,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0505098578
+DCR,BR-5453955,7002309,2nd line analysis,,Müştəri müraciəti: AĞAYEV MÖHBALI RASİM OĞLU: Şikayət,,KerimovFA,GozalovaMF,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,02/Apr/25 11:42 AM,Cash out,"
+CIF: 0730091
+    
+{
+  ""Kart nömrəsi"" : ""416973******7244""
+  ""Əməliyyatın tarixi"" : ""2025-04-02T08:48:29""
+  ""RRN"" : ""15967657214""
+  ""Tranzaksiya İD"" : ""15967657214""
+  ""Əməliyyatın məbləği"" : ""170""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""467082""
+  ""Terminal"" : ""A0100485""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944010079376218""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,170 AZN,170 AZN,AĞAYEV MÖHBALI RASİM OĞLU,02/Apr/25 11:37 AM,A0100485,,,,,,,,0552067015,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0552067015
+DCR,BR-5453686,7001930,2nd line analysis,,Müştəri müraciəti: İSAYEVA SVETLANA FEYRUZ QIZI: Şikayət,,SamadovaAM,CabbarovaGN,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,02/Apr/25 11:12 AM,Cash out,"
+CIF: 4048617
+    
+{
+  ""Kart nömrəsi"" : ""523915******4845""
+  ""Əməliyyatın tarixi"" : ""2025-04-02T10:00:15""
+  ""RRN"" : ""15968534090""
+  ""Tranzaksiya İD"" : ""15968534090""
+  ""Əməliyyatın məbləği"" : ""10""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""679670""
+  ""Terminal"" : ""A0100018""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944011826220100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Web-site,10 AZN,10 AZN,İSAYEVA SVETLANA FEYRUZ QIZI,02/Apr/25 11:08 AM,A0100018,,,,,,,,0505258101,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0505258101
+DCR,BR-5452830,7000808,2nd line analysis,,Müştəri müraciəti: CANMİRZƏYEV RAMİL CAMALDİN OĞLU: Şikayət,,EkberovaS,MehtiyevaLT,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,02/Apr/25 9:37 AM,Cash out,"
+CIF: 2206139
+    
+{
+  ""Kart nömrəsi"" : ""416973******0109""
+  ""Əməliyyatın tarixi"" : ""2025-04-02T09:17:17""
+  ""RRN"" : ""15967971741""
+  ""Tranzaksiya İD"" : ""15967971741""
+  ""Əməliyyatın məbləği"" : ""300""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""706429""
+  ""Terminal"" : ""A0100282""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003948060100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,300 AZN,300 AZN AZN,CANMİRZƏYEV RAMİL CAMALDİN OĞLU,02/Apr/25 9:34 AM,A0100282,,,,,,,,994555873212,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,994555873212
+DCR,BR-5452634,7000376,2nd line analysis,,Müştəri müraciəti: QULİYEV HABİL ASİF OĞLU: Şikayət,,AbbasovaDA,ZeynalovaAN,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,02/Apr/25 9:07 AM,Cash out,"
+CIF: 3126524
+    
+{
+  ""Kart nömrəsi"" : ""676867******8998""
+  ""Əməliyyatın tarixi"" : ""2025-04-02T08:38:06""
+  ""RRN"" : ""15967556447""
+  ""Tranzaksiya İD"" : ""15967556447""
+  ""Əməliyyatın məbləği"" : ""80""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""292231""
+  ""Terminal"" : ""A0180066""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944001589770186""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,80 AZN,80 AZN,QULİYEV HABİL ASİF OĞLU,02/Apr/25 9:03 AM,A0180066,,,,,,,,0707189590,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0707189590
+DCR,BR-5452266,7000050,2nd line analysis,,Müştəri müraciəti: ƏLİZADƏ RƏHMAN ALLAHVERDİ OĞLU: Şikayət,,AbbasovKAl,XalilovEEld,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,01/Apr/25 10:57 PM,Cash out,"
+CIF: 3421381
+    
+{
+  ""Kart nömrəsi"" : ""416973******2307""
+  ""Əməliyyatın tarixi"" : ""2025-04-01T22:50:21""
+  ""RRN"" : ""15964375257""
+  ""Tranzaksiya İD"" : ""15964375257""
+  ""Əməliyyatın məbləği"" : ""3""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""661032""
+  ""Terminal"" : ""A0141025""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944012875839144""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,3 AZN,3 AZN,ƏLİZADƏ RƏHMAN ALLAHVERDİ OĞLU,01/Apr/25 10:57 PM,A0141025,,,,,,,,0558643277,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0558643277
+DCR,BR-5452248,6999881,2nd line analysis,,Müştəri müraciəti: İBİŞOV QƏHRƏMAN SALMAN OĞLU: Şikayət,,ShiraliyevaAV,MammadovaFU,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 2:07 PM,Cash out,"
+CIF: 2850598
+    
+{
+  ""Kart nömrəsi"" : ""523915******8127""
+  ""Əməliyyatın tarixi"" : ""2025-04-01T22:18:01""
+  ""RRN"" : ""15963874959""
+  ""Tranzaksiya İD"" : ""15963874959""
+  ""Əməliyyatın məbləği"" : ""500""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""424543""
+  ""Terminal"" : ""A0100168""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005040912100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,500 AZN,500 AZN,İBİŞOV QƏHRƏMAN SALMAN OĞLU,01/Apr/25 10:38 PM,A0100168,,,,,,,,0708457248,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0708457248
+DCR,BR-5452202,6999933,2nd line analysis,,Müştəri müraciəti: MİRİŞOV AZƏR HƏSƏN OĞLU: Şikayət,,MemmedovaNS,IsmayilzadaTQ,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,01/Apr/25 10:12 PM,Cash out,"
+CIF: 9174848
+    
+{
+  ""Kart nömrəsi"" : ""416973******1389""
+  ""Əməliyyatın tarixi"" : ""2025-04-01T22:04:43""
+  ""RRN"" : ""15963655301""
+  ""Tranzaksiya İD"" : ""15963655301""
+  ""Əməliyyatın məbləği"" : ""90""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""547993""
+  ""Terminal"" : ""A0100026""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944001818505100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,90 AZN,90 AZN,MİRİŞOV AZƏR HƏSƏN OĞLU,01/Apr/25 10:11 PM,A0100026,,,,,,,,0553114168,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0553114168
+DCR,BR-5452133,6999914,2nd line analysis,,Müştəri müraciəti: MİSİRZADƏ İLKİN FAZİL OĞLU: Şikayət,,MalikovaSF,MammadovaFU,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,01/Apr/25 9:27 PM,Cash out,"
+CIF: 1468088
+    
+{
+  ""Kart nömrəsi"" : ""523915******6629""
+  ""Əməliyyatın tarixi"" : ""2025-04-01T17:47:07""
+  ""RRN"" : ""15958402024""
+  ""Tranzaksiya İD"" : ""15958402024""
+  ""Əməliyyatın məbləği"" : ""50""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""480774""
+  ""Terminal"" : ""A0182037""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003716666100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,50 AZN,50 AZN,MİSİRZADƏ İLKİN FAZİL OĞLU,01/Apr/25 9:23 PM,A0182037,,,,,,,,0513834222,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0513834222
+DCR,BR-5452077,6999695,2nd line analysis,,Müştəri müraciəti: AŞIROV NURPAŞA ŞİTEY OĞLU: Şikayət,,HaciyevaAN,HasanovaFEl,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,01/Apr/25 8:53 PM,Cash out,"
+CIF: 3569898
+    
+{
+  ""Kart nömrəsi"" : ""523915******1859""
+  ""Əməliyyatın tarixi"" : ""2025-04-01T18:26:00""
+  ""RRN"" : ""15959205074""
+  ""Tranzaksiya İD"" : ""15959205074""
+  ""Əməliyyatın məbləği"" : ""90""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""484144""
+  ""Terminal"" : ""A0170026""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005109686100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,90 AZN,90 AZN AZN,AŞIROV NURPAŞA ŞİTEY OĞLU,01/Apr/25 8:51 PM,A0170026,,,,,,,,0554483059,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0554483059
+DCR,BR-5450849,6998271,2nd line analysis,,Müştəri müraciəti: ABDULLAYEV TƏYYAR YUSİF OĞLU: Şikayət,,KerimovFA,HuseynovaBE,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,01/Apr/25 4:37 PM,Cash out,"
+CIF: 4419849
+    
+{
+  ""Kart nömrəsi"" : ""416974******5023""
+  ""Əməliyyatın tarixi"" : ""2025-04-01T15:43:53""
+  ""RRN"" : ""15955976236""
+  ""Tranzaksiya İD"" : ""15955976236""
+  ""Əməliyyatın məbləği"" : ""690""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""916204""
+  ""Terminal"" : ""A0100046""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944007276553106""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,690 AZN,690 azn AZN,ABDULLAYEV TƏYYAR YUSİF OĞLU,01/Apr/25 4:35 PM,A0100046,,,,,,,,0506231630,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0506231630
+DCR,BR-5450679,6998219,2nd line analysis,,Müştəri müraciəti: SƏLİMOVA LEYLA MALİK QIZI: Şikayət,,HasimzadaSR,BagirzadaER,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,01/Apr/25 4:22 PM,Cash out,"
+CIF: 2235372
+    
+{
+  ""Kart nömrəsi"" : ""416973******2810""
+  ""Əməliyyatın tarixi"" : ""2025-04-01T14:44:54""
+  ""RRN"" : ""TGDR294414276""
+  ""Tranzaksiya İD"" : ""15954870599""
+  ""Əməliyyatın məbləği"" : ""340""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""544831""
+  ""Terminal"" : ""BirBankATMQR""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944002344848100""
+  ""Əməliyyat"" : ""POS P2P Debit""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,340 AZN,340 AZN,SƏLİMOVA LEYLA MALİK QIZI,01/Apr/25 4:18 PM,BirBankATMQR,,,,,,,,0555065636,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0555065636
+DCR,BR-5449271,6996276,2nd line analysis,,Müştəri müraciəti: MƏMMƏDOV HATƏM ELYAS OĞLU: Şikayət,,AbdullayevSM,MammadovaAKa,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,02/Apr/25 12:00 PM,Cash out,"
+CIF: 3152416
+    
+{
+  ""Kart nömrəsi"" : ""416973******3174""
+  ""Əməliyyatın tarixi"" : ""2025-04-01T13:29:11""
+  ""RRN"" : ""15953403233""
+  ""Tranzaksiya İD"" : ""15953403233""
+  ""Əməliyyatın məbləği"" : ""320""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""330420""
+  ""Terminal"" : ""A0100420""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944001884080100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,320 AZN,320 AZN,MƏMMƏDOV HATƏM ELYAS OĞLU,01/Apr/25 1:40 PM,A0100420,,,,,,,,0504557111,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0504557111
+DCR,BR-5449071,6996099,2nd line analysis,,Müştəri müraciəti: ƏLİYEV ELMƏDDİN NƏSİMİ OĞLU: Şikayət,,MammadzadaCF,SultanovaAS,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,01/Apr/25 1:07 PM,Cash out,"
+CIF: 2653869
+    
+{
+  ""Kart nömrəsi"" : ""416973******7920""
+  ""Əməliyyatın tarixi"" : ""2025-04-01T13:00:25""
+  ""RRN"" : ""TGDR294254686""
+  ""Tranzaksiya İD"" : ""15952839133""
+  ""Əməliyyatın məbləği"" : ""35""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""229024""
+  ""Terminal"" : ""BirBankATMQR""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944002399786100""
+  ""Əməliyyat"" : ""POS P2P Debit""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,35 AZN,35azn AZN,ƏLİYEV ELMƏDDİN NƏSİMİ OĞLU,01/Apr/25 1:05 PM,BirBankATMQR,,,,,,,,+994703661112,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994703661112
+DCR,BR-5448472,6995330,2nd line analysis,,Müştəri müraciəti: ƏLİYEV RƏHBƏR ƏDALƏT OĞLU: Şikayət,,TanriverdiyevaGN,BabasoyGAl,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,01/Apr/25 11:52 AM,Cash out,"
+CIF: 1703976
+    
+{
+  ""Kart nömrəsi"" : ""510307******6019""
+  ""Əməliyyatın tarixi"" : ""2025-04-01T11:45:29""
+  ""RRN"" : ""15951443609""
+  ""Tranzaksiya İD"" : ""15951443609""
+  ""Əməliyyatın məbləği"" : ""2000""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""406570""
+  ""Terminal"" : ""A0170037""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944003852166139""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,2000 AZN,2000 AZN,ƏLİYEV RƏHBƏR ƏDALƏT OĞLU,01/Apr/25 11:51 AM,A0170037,,,,,,,,0519899991,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0519899991
+DCR,BR-5448307,6995052,2nd line analysis,,Müştəri müraciəti: MƏMMƏDOVA SƏBİNƏ SÜLEYMAN QIZI: Şikayət,,MammadzadaCF,BaxisovTC,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,01/Apr/25 11:32 AM,Cash out,"
+CIF: 8826239
+    
+{
+  ""Kart nömrəsi"" : ""416973******2933""
+  ""Əməliyyatın tarixi"" : ""2025-04-01T11:09:56""
+  ""RRN"" : ""15950820885""
+  ""Tranzaksiya İD"" : ""15950820885""
+  ""Əməliyyatın məbləği"" : ""60""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""527198""
+  ""Terminal"" : ""A0127013""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944001558349100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,60 AZN,60 AZN,MƏMMƏDOVA SƏBİNƏ SÜLEYMAN QIZI,01/Apr/25 11:32 AM,A0127013,,,,,,,,0553429501,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0553429501
+DCR,BR-5448222,6994967,2nd line analysis,,Müştəri müraciəti: YUSİFOV AQİL MUSA OĞLU: Şikayət,,KerimovFA,MuradovaGV,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,01/Apr/25 11:27 AM,Cash out,"
+CIF: 0436349
+    
+{
+  ""Kart nömrəsi"" : ""416974******6578""
+  ""Əməliyyatın tarixi"" : ""2025-04-01T11:13:53""
+  ""RRN"" : ""15950891575""
+  ""Tranzaksiya İD"" : ""15950891575""
+  ""Əməliyyatın məbləği"" : ""49""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""607028""
+  ""Terminal"" : ""A0182035""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944007608117181""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,49 AZN,49 AZN,YUSİFOV AQİL MUSA OĞLU,01/Apr/25 11:23 AM,A0182035,,,,,,,,+994509911250,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994509911250
+DCR,BR-5447787,6994421,2nd line analysis,,Müştəri müraciəti: NƏSİBOVA NURANƏ YUSİF QIZI: Şikayət,,KerimovFA,AsrafovaAE,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 11:02 AM,Cash out,"
+CIF: 
+    
+{
+  ""Kart nömrəsi"" : ""510307******4886""
+  ""Əməliyyatın tarixi"" : ""2025-03-20T15:20:09""
+  ""RRN"" : ""15779592635""
+  ""Tranzaksiya İD"" : ""15779592635""
+  ""Əməliyyatın məbləği"" : ""551""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""829033""
+  ""Terminal"" : ""A0127046""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944012174924199""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,551 AZN,551 AZN,NƏSİBOVA NURANƏ YUSİF QIZI,01/Apr/25 10:37 AM,A0127046,,,,,,,,0708173598,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0708173598
+DCR,BR-5447607,6994132,2nd line analysis,,Müştəri müraciəti: QƏHRƏMANLI FUAD RASİM OĞLU: Şikayət,,AbdullayevFFa,MammadovOMu,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,01/Apr/25 6:53 PM,,"CIF: 3641885
+ ""Kart nömrəsi"" : ""416973******9705""
+  ""Əməliyyatın tarixi"" : ""2025-03-30T01:55:32""
+  ""RRN"" : ""TGDR291434211""
+  ""Tranzaksiya İD"" : ""15917132890""
+  ""Əməliyyatın məbləği"" : ""211""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""474691""
+  ""Terminal"" : ""BirBankATMQR""
+  ""Hesab nömrəsi"" : ""38817944005141705100""
+
+Salam müştəri iddia edir ki, QR nağdlaşdırma zamanı qeyd olunan 211 AZN-lik vəsaiti əldə edə bilməmişdir. Zəhmət olmasa, araşdıraraq dəstək olasınız. 
+",Call Center,,,QƏHRƏMANLI FUAD RASİM OĞLU,01/Apr/25 10:17 AM,,,,,,,,,0556327000,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0556327000
+DCR,BR-5447333,6993581,2nd line analysis,,Müştəri müraciəti: ƏLİZADƏ KƏNAN NADİR OĞLU: Şikayət,,AbdullayevSM,RzayevaGZ,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,01/Apr/25 9:52 AM,Cash out,"
+CIF: 3168486
+    
+{
+  ""Kart nömrəsi"" : ""523915******8832""
+  ""Əməliyyatın tarixi"" : ""2025-04-01T09:38:39""
+  ""RRN"" : ""15949386323""
+  ""Tranzaksiya İD"" : ""15949386323""
+  ""Əməliyyatın məbləği"" : ""78""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""466120""
+  ""Terminal"" : ""A0140015""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003766387100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,78 AZN,78 AZN,ƏLİZADƏ KƏNAN NADİR OĞLU,01/Apr/25 9:49 AM,A0140015,,,,,,,,0515580338,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0515580338
+DCR,BR-5447084,6993325,2nd line analysis,,Müştəri müraciəti: CAVADOV NATİQ HƏMİD OĞLU: Şikayət,,MemmedovaNS,HuseynovaSM,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,01/Apr/25 9:22 AM,Cash out,"
+CIF: 0178547
+    
+{
+  ""Kart nömrəsi"" : ""416973******1181""
+  ""Əməliyyatın tarixi"" : ""2025-03-31T16:59:07""
+  ""RRN"" : ""15939526741""
+  ""Tranzaksiya İD"" : ""15939526741""
+  ""Əməliyyatın məbləği"" : ""23""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""405653""
+  ""Terminal"" : ""A0141015""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009763202144""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,23 AZN,23 AZN,CAVADOV NATİQ HƏMİD OĞLU,01/Apr/25 9:19 AM,A0141015,,,,,,,,+994504372481,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994504372481
+DCR,BR-5446906,6992871,2nd line analysis,,Müştəri müraciəti: VƏZİRLİ ƏLİ-AĞA ELXAN OĞLU: Şikayət,1.0,BagirovaXG,AgayevaJR,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,01/Apr/25 1:37 AM,Cash out,"CIF: 2524834
+
+{
+""Kart nömrəsi"" : ""
+""Əməliyyatın tarixi"" : ""2025-03-31T22:27:17""
+""RRN"" : ""15945152718""
+""Tranzaksiya İD"" : ""15945152718""
+""Əməliyyatın məbləği"" : ""10""
+""Əməliyyatın valyutası"" : ""AZN""
+""Təsdiq kodu"" : ""975504""
+""Terminal"" : ""A0100355""
+""Komissiya"" : ""0""
+""Hesab nömrəsi"" : ""38817944002748319100""
+""Əməliyyat"" : ""Withdrawal""
+""Nəticə"" : ""OK""
+""Error"" : ""yes""
+}",Web-site,10 AZN,10 AZN,VƏZİRLİ ƏLİ-AĞA ELXAN OĞLU,01/Apr/25 1:32 AM,A0100355,,,,,,,,0558223848,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0558223848
+DCR,BR-5446886,6992861,2nd line analysis,,Müştəri müraciəti: ABDULLAYEV TURAL FEYRUZ OĞLU: Şikayət,0.0,AxundovaAE,SirinovaNF,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 5:02 PM,Cash out,"CIF: 0188344
+    
+{
+  ""Kart nömrəsi"" : ""4205""
+  ""Əməliyyatın tarixi"" : ""2025-03-31T23:28:15""
+  ""RRN"" : ""15945976938""
+  ""Tranzaksiya İD"" : ""15945976938""
+  ""Əməliyyatın məbləği"" : ""50""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""907907""
+  ""Terminal"" : ""A0100505""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009976280115""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,50 AZN,50 AZN,ABDULLAYEV TURAL FEYRUZ OĞLU,01/Apr/25 12:57 AM,A0100505,,,,,,,,0706727117,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0706727117
+DCR,BR-5446704,6992754,2nd line analysis,,Müştəri müraciəti: BAYRAMOV MÜNASİB AKİF OĞLU: Şikayət,,ShiraliyevaAV,SuleymanzadaUS,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,31/Mar/25 9:32 PM,Cash out,"
+CIF: 2556249
+    
+{
+  ""Kart nömrəsi"" : ""523915******3209""
+  ""Əməliyyatın tarixi"" : ""2025-03-31T21:08:54""
+  ""RRN"" : ""15943898454""
+  ""Tranzaksiya İD"" : ""15943898454""
+  ""Əməliyyatın məbləği"" : ""240""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""150135""
+  ""Terminal"" : ""A0182028""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944004899375100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,240 AZN,240 AZN,BAYRAMOV MÜNASİB AKİF OĞLU,31/Mar/25 9:32 PM,A0182028,,,,,,,,0552051355,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0552051355
+DCR,BR-5446700,6992752,2nd line analysis,,Müştəri müraciəti: ƏLİYEV KƏNAN HABİL OĞLU: Şikayət,,QambarovaLI,NasibliMN,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,31/Mar/25 9:27 PM,Cash out,"
+CIF: 3234141
+    
+{
+  ""Kart nömrəsi"" : ""416973******3337""
+  ""Əməliyyatın tarixi"" : ""2025-03-31T21:05:45""
+  ""RRN"" : ""15943802579""
+  ""Tranzaksiya İD"" : ""15943802579""
+  ""Əməliyyatın məbləği"" : ""44""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""845049""
+  ""Terminal"" : ""A0101031""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944006449376100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,44 AZN,44 AZN AZN,ƏLİYEV KƏNAN HABİL OĞLU,31/Mar/25 9:25 PM,A0101031,,,,,,,,994603033336,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,994603033336
+DCR,BR-5446677,6992651,2nd line analysis,,Müştəri müraciəti: ZEYNALOVA ULDUZ HABİL QIZI: Şikayət,,NabiyevMA,PiriyevaNN,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,31/Mar/25 8:57 PM,Cash out,"
+CIF: 5037509
+    
+{
+  ""Kart nömrəsi"" : ""416973******1165""
+  ""Əməliyyatın tarixi"" : ""2025-03-31T20:14:57""
+  ""RRN"" : ""15942871693""
+  ""Tranzaksiya İD"" : ""15942871693""
+  ""Əməliyyatın məbləği"" : ""200""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""972210""
+  ""Terminal"" : ""A0182028""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944012347980136""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,200 AZN,200 AZN,ZEYNALOVA ULDUZ HABİL QIZI,31/Mar/25 8:57 PM,A0182028,,,,,,,,0705927809,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0705927809
+DCR,BR-5446676,6992650,2nd line analysis,,Müştəri müraciəti: BABAŞOV TURAL MEHMAN OĞLU: Şikayət,,MemmedovaNS,IsmayilzadaTQ,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,31/Mar/25 8:57 PM,Cash out,"
+CIF: 0254195
+    
+{
+  ""Kart nömrəsi"" : ""416973******7473""
+  ""Əməliyyatın tarixi"" : ""2025-03-31T20:51:27""
+  ""RRN"" : ""15943505626""
+  ""Tranzaksiya İD"" : ""15943505626""
+  ""Əməliyyatın məbləği"" : ""1800""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""266979""
+  ""Terminal"" : ""A0141030""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009115028146""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,1800 AZN,1800 AZN,BABAŞOV TURAL MEHMAN OĞLU,31/Mar/25 8:56 PM,A0141030,,,,,,,,0502709006,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0502709006
+DCR,BR-5446512,6992387,2nd line analysis,,Müştəri müraciəti: ABDURAHMANOV ANAR BALAY OĞLU: Şikayət,,AbdullayevSM,QasimovaSV,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 5:52 PM,Cash out,"
+CIF: 0394166
+    
+{
+  ""Kart nömrəsi"" : ""416973******2271""
+  ""Əməliyyatın tarixi"" : ""2025-03-31T17:53:25""
+  ""RRN"" : ""15940427520""
+  ""Tranzaksiya İD"" : ""15940427520""
+  ""Əməliyyatın məbləği"" : ""100""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""318430""
+  ""Terminal"" : ""A0170017""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944004292547100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,100 AZN,100 AZN,ABDURAHMANOV ANAR BALAY OĞLU,31/Mar/25 6:10 PM,A0170017,,,,,,,,0706003970,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0706003970
+DCR,BR-5446440,6992362,2nd line analysis,,Müştəri müraciəti: AĞAZADƏ SAMİR QADİR OĞLU: Şikayət,0.0,ShiraliyevaAV,RamazanovaJU,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,04/Apr/25 12:06 PM,Cash out,"
+CIF: 2983959
+    
+{
+  ""Kart nömrəsi"" : ""416973******0766""
+  ""Əməliyyatın tarixi"" : ""2025-03-31T17:02:23""
+  ""RRN"" : ""15939579044""
+  ""Tranzaksiya İD"" : ""15939579044""
+  ""Əməliyyatın məbləği"" : ""260""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""343167""
+  ""Terminal"" : ""A0151044""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944002133953100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,260 AZN,260 AZN,AĞAZADƏ SAMİR QADİR OĞLU,31/Mar/25 5:14 PM,A0151044,,,,,,,,+994513890034,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994513890034
+DCR,BR-5446338,6992256,2nd line analysis,,Müştəri müraciəti: AĞAYEVA AYNUR SALEH QIZI: Şikayət,,HasimzadaSR,SahbazbayliVA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,31/Mar/25 4:12 PM,Cash out,"
+CIF: 1988972
+    
+{
+  ""Kart nömrəsi"" : ""416973******4692""
+  ""Əməliyyatın tarixi"" : ""2025-03-31T16:00:13""
+  ""RRN"" : ""15938569886""
+  ""Tranzaksiya İD"" : ""15938569886""
+  ""Əməliyyatın məbləği"" : ""2""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""380143""
+  ""Terminal"" : ""A0100435""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005939030100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,2 AZN,2 AZN,AĞAYEVA AYNUR SALEH QIZI,31/Mar/25 4:10 PM,A0100435,,,,,,,,0708750296,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0708750296
+DCR,BR-5446334,6992332,2nd line analysis,,Müştəri müraciəti: AĞAYEVA AYNUR SALEH QIZI: Şikayət,,EkberovaS,SahbazbayliVA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,31/Mar/25 4:12 PM,Cash out,"
+CIF: 1988972
+    
+{
+  ""Kart nömrəsi"" : ""416973******4692""
+  ""Əməliyyatın tarixi"" : ""2025-03-31T15:58:27""
+  ""RRN"" : ""15938541566""
+  ""Tranzaksiya İD"" : ""15938541566""
+  ""Əməliyyatın məbləği"" : ""3""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""242141""
+  ""Terminal"" : ""A0100435""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005939030100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,3 AZN,3 AZN,AĞAYEVA AYNUR SALEH QIZI,31/Mar/25 4:09 PM,A0100435,,,,,,,,0708750296,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0708750296
+DCR,BR-5446333,6992331,2nd line analysis,,Müştəri müraciəti: AĞAYEVA AYNUR SALEH QIZI: Şikayət,,BagirovaXG,SahbazbayliVA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,31/Mar/25 4:12 PM,Cash out,"
+CIF: 1988972
+    
+{
+  ""Kart nömrəsi"" : ""416973******4692""
+  ""Əməliyyatın tarixi"" : ""2025-03-31T16:00:13""
+  ""RRN"" : ""15938569886""
+  ""Tranzaksiya İD"" : ""15938569886""
+  ""Əməliyyatın məbləği"" : ""2""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""380143""
+  ""Terminal"" : ""A0100435""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005939030100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,2 AZN,2 AZN,AĞAYEVA AYNUR SALEH QIZI,31/Mar/25 4:08 PM,A0100435,,,,,,,,0708750296,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0708750296
+DCR,BR-5446306,6992428,2nd line analysis,,Müştəri müraciəti: VƏLİYEV ŞAHİN QORXMAZ OĞLU: Şikayət,,AlizadaSIl,SultanovaAS,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,31/Mar/25 3:57 PM,Cash out,"
+CIF: 1633553
+    
+{
+  ""Kart nömrəsi"" : ""416973******3490""
+  ""Əməliyyatın tarixi"" : ""2025-03-31T15:51:29""
+  ""RRN"" : ""TGDR293167093""
+  ""Tranzaksiya İD"" : ""15938429675""
+  ""Əməliyyatın məbləği"" : ""116""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""561186""
+  ""Terminal"" : ""BirBankATMQR""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944004154802100""
+  ""Əməliyyat"" : ""POS P2P Debit""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,116 AZN,116azn AZN,VƏLİYEV ŞAHİN QORXMAZ OĞLU,31/Mar/25 3:57 PM,BirBankATMQR,,,,,,,,+994777633636,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994777633636
+DCR,BR-5446304,6992246,2nd line analysis,,Müştəri müraciəti: CƏLİLOV QƏZƏNFƏR CABBAR OĞLU: Şikayət,,AlizadaER,QaflanovaGZ,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,31/Mar/25 3:57 PM,Cash out,"
+CIF: 1944774
+    
+{
+  ""Kart nömrəsi"" : ""523915******6795""
+  ""Əməliyyatın tarixi"" : ""2025-03-31T15:39:59""
+  ""RRN"" : ""15938244746""
+  ""Tranzaksiya İD"" : ""15938244746""
+  ""Əməliyyatın məbləği"" : ""44""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""043390""
+  ""Terminal"" : ""A0101031""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944004616537100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,44 AZN,44 AZN,CƏLİLOV QƏZƏNFƏR CABBAR OĞLU,31/Mar/25 3:57 PM,A0101031,,,,,,,,+994602207888,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994602207888
+DCR,BR-5446199,6991993,2nd line analysis,,Müştəri müraciəti: MAXSUDOVA NAİBƏ ƏLİ QIZI: Şikayət,,NabiyevMA,QaflanovaGZ,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,05/Apr/25 10:38 AM,Cash out,"
+CIF: 3068656
+    
+{
+  ""Kart nömrəsi"" : ""416973******5500""
+  ""Əməliyyatın tarixi"" : ""2025-03-31T14:28:02""
+  ""RRN"" : ""15937108804""
+  ""Tranzaksiya İD"" : ""15937108804""
+  ""Əməliyyatın məbləği"" : ""1670""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""635468""
+  ""Terminal"" : ""A0100569""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009485612226""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,1670 AZN,1670 AZN,MAXSUDOVA NAİBƏ ƏLİ QIZI,31/Mar/25 2:41 PM,A0100569,,,,,,,,+994509966584,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994509966584
+DCR,BR-5446198,6991992,2nd line analysis,,Müştəri müraciəti: PİRİMOV NURLAN NƏCƏF OĞLU: Şikayət,,MemmedovaNS,IbrahimliZSa,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,31/Mar/25 2:42 PM,Cash out,"
+CIF: 0196933
+    
+{
+  ""Kart nömrəsi"" : ""523915******0085""
+  ""Əməliyyatın tarixi"" : ""2025-03-31T14:23:28""
+  ""RRN"" : ""15937038602""
+  ""Tranzaksiya İD"" : ""15937038602""
+  ""Əməliyyatın məbləği"" : ""10""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""748199""
+  ""Terminal"" : ""A0166044""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005356988100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,10 AZN,10 AZN,PİRİMOV NURLAN NƏCƏF OĞLU,31/Mar/25 2:40 PM,A0166044,,,,,,,,0502853515,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0502853515
+DCR,BR-5445718,6991800,2nd line analysis,,Müştəri müraciəti: BABAYEVA GÜLŞƏN BALABƏK QIZI: Şikayət,,NabiyevMA,AjidiK,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,31/Mar/25 12:02 AM,Cash out,"
+CIF: 6208698
+    
+{
+  ""Kart nömrəsi"" : ""416973******0510""
+  ""Əməliyyatın tarixi"" : ""2025-03-30T21:00:52""
+  ""RRN"" : ""15928320275""
+  ""Tranzaksiya İD"" : ""15928320275""
+  ""Əməliyyatın məbləği"" : ""39""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""609275""
+  ""Terminal"" : ""A0100282""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944012678831162""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,39 AZN,39 AZN,BABAYEVA GÜLŞƏN BALABƏK QIZI,30/Mar/25 11:58 PM,A0100282,,,,,,,,0516872324,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0516872324
+DCR,BR-5445565,6991456,2nd line analysis,,Müştəri müraciəti: DADAŞOVA ÇÖHRƏ HƏSƏNXAN QIZI: Şikayət,,ShiraliyevaAV,RahimliIKa,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,30/Mar/25 8:37 PM,Cash out,"
+CIF: 3959888
+    
+{
+  ""Kart nömrəsi"" : ""523915******0419""
+  ""Əməliyyatın tarixi"" : ""2025-03-30T12:08:37""
+  ""RRN"" : ""15920309713""
+  ""Tranzaksiya İD"" : ""15920309713""
+  ""Əməliyyatın məbləği"" : ""90""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""360396""
+  ""Terminal"" : ""A0100091""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944004384412100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,90 AZN,90 AZN,DADAŞOVA ÇÖHRƏ HƏSƏNXAN QIZI,30/Mar/25 8:32 PM,A0100091,,,,,,,,0556033530,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0556033530
+DCR,BR-5445448,6991424,2nd line analysis,,Müştəri müraciəti: QARAXANOV RƏŞİD ŞAHİN OĞLU: Şikayət,0.0,HuseynovaNV,HuseynovCM,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,07/Apr/25 11:28 AM,Cash out,"
+CIF: 3448772
+    
+{
+  ""Kart nömrəsi"" : ""523915******5720""
+  ""Əməliyyatın tarixi"" : ""2025-03-30T18:38:18""
+  ""RRN"" : ""15926062146""
+  ""Tranzaksiya İD"" : ""15926062146""
+  ""Əməliyyatın məbləği"" : ""2000""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""902905""
+  ""Terminal"" : ""A0100537""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944011982269103""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,2000 AZN,2000 AZN,QARAXANOV RƏŞİD ŞAHİN OĞLU,30/Mar/25 6:40 PM,A0100537,,,,,,,,0517774311,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0517774311
+DCR,BR-5445350,6991285,2nd line analysis,,Müştəri müraciəti: MAHMUDOV ELGÜN MƏDƏD OĞLU: Şikayət,,AbdullayevFFa,ZeynalabdinovaNB,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,30/Mar/25 5:17 PM,,"ATM-də silinmə
+CIF: 2866274
+    
+{
+  ""Kart nömrəsi"" : ""416973******8793""
+  ""Əməliyyatın tarixi"" : ""2025-03-30T15:43:57""
+  ""RRN"" : ""TGDR291949718""
+  ""Tranzaksiya İD"" : ""15923426148""
+  ""Əməliyyatın məbləği"" : ""42""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""139294""
+  ""Terminal"" : ""BirBankATMQR""
+  ""Hesab nömrəsi"" : ""38810944009075578126""
+}
+",Call Center,,,MAHMUDOV ELGÜN MƏDƏD OĞLU,30/Mar/25 5:14 PM,,,,,,,,,0706060696,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,0706060696
+DCR,BR-5445343,6991281,2nd line analysis,,Müştəri müraciəti: ADIGÖZƏLOVA ƏLFİYƏ SAVKETOVNA: Şikayət,,AbbasovKAl,MikayilovAA,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,30/Mar/25 5:12 PM,Cash out,"
+CIF: 2365382
+    
+{
+  ""Kart nömrəsi"" : ""416973******4572""
+  ""Əməliyyatın tarixi"" : ""2025-03-28T12:55:27""
+  ""RRN"" : ""15890390270""
+  ""Tranzaksiya İD"" : ""15890390270""
+  ""Əməliyyatın məbləği"" : ""25""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""411481""
+  ""Terminal"" : ""BirBank5""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003990948100""
+  ""Əməliyyat"" : ""POS P2P Credit""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+,{
+  ""Kart nömrəsi"" : ""416973******4572""
+  ""Əməliyyatın tarixi"" : ""2025-03-26T20:55:24""
+  ""RRN"" : ""15868779178""
+  ""Tranzaksiya İD"" : ""15868779178""
+  ""Əməliyyatın məbləği"" : ""20""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""891316""
+  ""Terminal"" : ""BirBank5""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944003990948100""
+  ""Əməliyyat"" : ""POS P2P Credit""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""no""
+}
+",Call Center,45AZN,45 AZN,ADIGÖZƏLOVA ƏLFİYƏ SAVKETOVNA,30/Mar/25 5:09 PM,BirBank5,,,,,,,,+994553855509,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994553855509
+DCR,BR-5445342,6991280,2nd line analysis,,Müştəri müraciəti: ORUCOV QABİL TURAN OĞLU: Şikayət,0.0,AbbasovaDA,IsmayilovaNZi,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,30/Mar/25 5:12 PM,Cash out,"
+CIF: 1386889
+    
+{
+  ""Kart nömrəsi"" : ""416973******9684""
+  ""Əməliyyatın tarixi"" : ""2025-03-30T16:36:51""
+  ""RRN"" : ""15924211564""
+  ""Tranzaksiya İD"" : ""15924211564""
+  ""Əməliyyatın məbləği"" : ""50""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""382365""
+  ""Terminal"" : ""A0127016""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38810944009081324185""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,50 AZN,50 AZN,ORUCOV QABİL TURAN OĞLU,30/Mar/25 5:08 PM,A0127016,,,,,,,,+994552354225,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994552354225
+DCR,BR-5445054,6990972,2nd line analysis,,Müştəri müraciəti: NOVRUZOV NÜSRƏT HƏSƏN OĞLU: Şikayət,,AbbasovKAl,QaflanovaGZ,Müştəri müraciətlərinin araşdırılması şöbəsi (HR-47922),ATM Optimization,30/Mar/25 1:42 PM,Cash out,"
+CIF: 5024078
+    
+{
+  ""Kart nömrəsi"" : ""416973******7992""
+  ""Əməliyyatın tarixi"" : ""2025-03-30T13:29:19""
+  ""RRN"" : ""15921443054""
+  ""Tranzaksiya İD"" : ""15921443054""
+  ""Əməliyyatın məbləği"" : ""20""
+  ""Əməliyyatın valyutası"" : ""AZN""
+  ""Təsdiq kodu"" : ""134337""
+  ""Terminal"" : ""A0101031""
+  ""Komissiya"" : ""0""
+  ""Hesab nömrəsi"" : ""38817944005733793100""
+  ""Əməliyyat"" : ""Withdrawal""
+  ""Nəticə"" : ""OK""
+  ""Error"" : ""yes""
+}
+",Call Center,20 AZN,20 AZN,NOVRUZOV NÜSRƏT HƏSƏN OĞLU,30/Mar/25 1:37 PM,A0101031,,,,,,,,+994703694647,Şikayət,ATM-də vəsaitin qalması (CF-46069),,,,,+994703694647
