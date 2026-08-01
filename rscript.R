@@ -44,7 +44,8 @@ print('BB')
 
 #print(Sys.getenv('BOT_ID'))
 # Initialize bot
-bot <- Bot(token = "8947345143:AAEgOjPCRnf3lku52BdE7lFgM-SuewJ-vO0")
+#bot <- Bot(token = "8947345143:AAEgOjPCRnf3lku52BdE7lFgM-SuewJ-vO0")
+bot <- Bot(token = Sys.getenv("BOT_ID"))
 
 # Chat id
 Baki_texniki <- -1001509736694
